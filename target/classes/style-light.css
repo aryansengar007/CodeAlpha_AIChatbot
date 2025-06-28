@@ -1,0 +1,54 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: #f4f4f4;
+}
+
+.header-bar {
+    -fx-background-color: #ffffff;
+    -fx-padding: 10;
+    -fx-border-color: #e0e0e0;
+    -fx-border-width: 0 0 1 0;
+}
+
+.header-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.scroll-pane {
+    -fx-background: transparent;
+    -fx-border-color: transparent;
+}
+
+.text-field {
+    -fx-background-radius: 8;
+    -fx-padding: 8px;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 6 14;
+    -fx-background-radius: 8;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.user-message {
+    -fx-background-color: #e0f7fa;
+    -fx-background-radius: 12;
+    -fx-padding: 10;
+    -fx-text-fill: #000000;
+}
+
+.bot-message {
+    -fx-background-color: #fff9c4;
+    -fx-background-radius: 12;
+    -fx-padding: 10;
+    -fx-text-fill: #333333;
+}

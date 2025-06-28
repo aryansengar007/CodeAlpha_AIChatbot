@@ -1,0 +1,2795 @@
+[
+  {
+    "question": "who created you?",
+    "answer": "I was developed by Aryan Sengar as part of a chatbot project."
+  },
+  {
+    "question": "what is your name?",
+    "answer": "I'm an AI chatbot built to assist, answer, and engage with users intelligently."
+  },
+  {
+    "question": "what can you do?",
+    "answer": "I can answer questions, provide support, and simulate intelligent conversation."
+  },
+  {
+    "question": "are you human?",
+    "answer": "No, I'm not human. I'm an artificial intelligence chatbot."
+  },
+  {
+    "question": "can you think?",
+    "answer": "I don't think like humans. I generate responses based on data and algorithms."
+  },
+  {
+    "question": "what is ai?",
+    "answer": "AI stands for Artificial Intelligence — the ability of machines to perform tasks that typically require human intelligence."
+  },
+  {
+    "question": "who is aryan sengar?",
+    "answer": "Aryan Sengar is the developer who created me"
+  },
+  {
+    "question": "can you help me?",
+    "answer": "Absolutely! Just type your question and I'll do my best to help."
+  },
+  {
+    "question": "are you always online?",
+    "answer": "I'm available whenever the system hosting me is running and connected."
+  },
+  {
+    "question": "do you speak other languages?",
+    "answer": "I currently understand and respond best in English."
+  },
+  {
+    "question": "can i teach you?",
+    "answer": "Only the developer can update my knowledge or train me with new data."
+  },
+  {
+    "question": "is this secure?",
+    "answer": "Yes, this chatbot is integrated with privacy and security in mind."
+  },
+  {
+    "question": "can you access the internet?",
+    "answer": "No, I do not have access to the internet in this current setup."
+  },
+  {
+    "question": "how do i contact support?",
+    "answer": "You can contact support by emailing support@example.com or using the Contact Us form."
+  },
+  {
+    "question": "can you reset my password?",
+    "answer": "Please use the 'Forgot Password' link on the login page to reset your password."
+  },
+  {
+    "question": "how do i register?",
+    "answer": "Click on the Register button and fill in your details to create an account."
+  },
+  {
+    "question": "what happens if i forget my username?",
+    "answer": "Try retrieving it using your registered email or contact support."
+  },
+  {
+    "question": "can i delete my account?",
+    "answer": "Please contact support or check your account settings for a delete option."
+  },
+  {
+    "question": "do you collect personal data?",
+    "answer": "No personal data is collected unless you explicitly provide it through the interface."
+  },
+  {
+    "question": "can i change my email?",
+    "answer": "Yes, go to your profile settings and update your email."
+  },
+  {
+    "question": "can i change my password?",
+    "answer": "Yes, you can change your password in your account settings."
+  },
+  {
+    "question": "are you free to use?",
+    "answer": "Yes, this chatbot is free to use as part of the project demonstration."
+  },
+  {
+    "question": "can i copy your responses?",
+    "answer": "Yes, feel free to copy and use the information I provide."
+  },
+  {
+    "question": "how do i report a bug?",
+    "answer": "Please email the developer or use the feedback form to report any issues."
+  },
+  {
+    "question": "what is your version?",
+    "answer": "I'm based on OpenAI GPT technology, integrated into this local chatbot."
+  },
+  {
+    "question": "do you learn from users?",
+    "answer": "No, this chatbot does not learn from individual user interactions."
+  },
+  {
+    "question": "can you give suggestions?",
+    "answer": "Yes! Ask me for suggestions related to tech, topics, or ideas."
+  },
+  {
+    "question": "tell me a joke.",
+    "answer": "Why don't programmers like nature? It has too many bugs!"
+  },
+  {
+    "question": "tell me a fun fact.",
+    "answer": "The first computer bug was an actual moth stuck in a computer."
+  },
+  {
+    "question": "what time is it?",
+    "answer": "I'm unable to access the current time, but you can check your device clock."
+  },
+  {
+    "question": "what's the weather?",
+    "answer": "I can't fetch real-time weather data, but you can check a weather app or website."
+  },
+  {
+    "question": "do you have emotions?",
+    "answer": "No, I don't have emotions. I just simulate friendly and helpful responses."
+  },
+  {
+    "question": "can you be sarcastic?",
+    "answer": "I try to maintain a helpful tone, but I can simulate sarcasm if needed!"
+  },
+  {
+    "question": "what should i ask you?",
+    "answer": "You can ask anything from tech support to fun facts!"
+  },
+  {
+    "question": "can i rename you?",
+    "answer": "Sure! Call me whatever you like."
+  },
+  {
+    "question": "do you work offline?",
+    "answer": "I require a functional environment, but the developer can enable offline mode."
+  },
+  {
+    "question": "do you store my data?",
+    "answer": "No data is stored permanently in this chatbot."
+  },
+  {
+    "question": "how can i update you?",
+    "answer": "Only the developer can update or modify my knowledge base."
+  },
+  {
+    "question": "what is gpt?",
+    "answer": "GPT stands for Generative Pre-trained Transformer — a type of AI model."
+  },
+  {
+    "question": "what is nlp?",
+    "answer": "NLP means Natural Language Processing — teaching machines to understand language."
+  },
+  {
+    "question": "do you do voice interaction?",
+    "answer": "This chatbot currently supports text-based interaction only."
+  },
+  {
+    "question": "can i ask technical questions?",
+    "answer": "Yes, feel free to ask technical or programming questions!"
+  },
+  {
+    "question": "can you solve math?",
+    "answer": "Yes! I can solve basic math problems. Try me."
+  },
+  {
+    "question": "what's 5 + 7?",
+    "answer": "5 plus 7 is 12."
+  },
+  {
+    "question": "what's 10 * 9?",
+    "answer": "10 multiplied by 9 is 90."
+  },
+  {
+    "question": "what's the capital of france?",
+    "answer": "The capital of France is Paris."
+  },
+  {
+    "question": "who is the prime minister of india?",
+    "answer": "As of now, it's Narendra Modi."
+  },
+  {
+    "question": "do you follow politics?",
+    "answer": "I stay neutral and provide factual information only."
+  },
+  {
+    "question": "can you write code?",
+    "answer": "Yes! I can help with coding examples in Python, Java, and more."
+  },
+  {
+    "question": "write a python program to print hello world.",
+    "answer": "Sure!\n```python\nprint('Hello World')\n```"
+  },
+  {
+    "question": "what is a variable in programming?",
+    "answer": "A variable stores data values for use in a program."
+  },
+  {
+    "question": "what is a loop?",
+    "answer": "A loop allows code to run repeatedly under certain conditions."
+  },
+  {
+    "question": "explain if-else in python.",
+    "answer": "`if-else` statements help control flow based on conditions."
+  },
+  {
+    "question": "how to define a function in python?",
+    "answer": "Use the `def` keyword: `def my_function():`"
+  },
+  {
+    "question": "can you run code?",
+    "answer": "Not directly. I can show code snippets, but I can't execute them here."
+  },
+  {
+    "question": "what is html?",
+    "answer": "HTML stands for HyperText Markup Language — it structures web pages."
+  },
+  {
+    "question": "what is css?",
+    "answer": "CSS stands for Cascading Style Sheets — it styles web content."
+  },
+  {
+    "question": "what is javascript?",
+    "answer": "JavaScript is a scripting language for interactive web features."
+  },
+  {
+    "question": "are you open source?",
+    "answer": "I use OpenAI technology. Parts may be open, depending on implementation."
+  },
+  {
+    "question": "do you know java?",
+    "answer": "Yes, I can help with Java concepts and syntax too!"
+  },
+  {
+    "question": "can you explain oop?",
+    "answer": "OOP stands for Object-Oriented Programming — it models real-world objects."
+  },
+  {
+    "question": "what is an api?",
+    "answer": "API means Application Programming Interface — a way for apps to talk to each other."
+  },
+  {
+    "question": "what is json?",
+    "answer": "JSON is JavaScript Object Notation — a lightweight data format."
+  },
+  {
+    "question": "what is a chatbot?",
+    "answer": "A chatbot is a computer program that simulates human conversation."
+  },
+  {
+    "question": "is this chatbot intelligent?",
+    "answer": "Yes! It uses AI to generate meaningful and context-aware responses."
+  },
+  {
+    "question": "can you help with my homework?",
+    "answer": "I'll try my best! Ask your homework question."
+  },
+  {
+    "question": "can i use you in a project?",
+    "answer": "Yes, as long as it's allowed by the developer and platform."
+  },
+  {
+    "question": "how do i start a conversation?",
+    "answer": "Just type your question or say 'Hi!' to begin."
+  },
+  {
+    "question": "can i upload files?",
+    "answer": "This chatbot currently doesn't support file uploads."
+  },
+  {
+    "question": "can i give feedback?",
+    "answer": "Yes! Use the feedback form or email the developer directly."
+  },
+  {
+    "question": "can you explain blockchain?",
+    "answer": "Blockchain is a decentralized ledger used in digital finance and data security."
+  },
+  {
+    "question": "what is cloud computing?",
+    "answer": "Cloud computing delivers computing services over the internet on-demand."
+  },
+  {
+    "question": "can i book a service here?",
+    "answer": "This chatbot is for Q&A only. Booking features may be available elsewhere."
+  },
+  {
+    "question": "are you connected to a database?",
+    "answer": "That depends on the backend. I'm powered by rules and local data here."
+  },
+  {
+    "question": "do you support emojis?",
+    "answer": "Yes 😊 I can use emojis in my responses!"
+  },
+  {
+    "question": "how do i update my profile?",
+    "answer": "Go to your profile settings and make the necessary changes."
+  },
+  {
+    "question": "can i use voice commands?",
+    "answer": "Not at this time, but the developer may enable voice input in the future."
+  },
+  {
+    "question": "is your data up to date?",
+    "answer": "I provide responses from a static dataset. Real-time updates are not supported."
+  },
+  {
+    "question": "can you explain recursion?",
+    "answer": "Recursion is a function that calls itself, often used to solve complex problems."
+  },
+  {
+    "question": "how do i clear chat?",
+    "answer": "Click the reset or clear button to start a new conversation."
+  },
+  {
+    "question": "do you get tired?",
+    "answer": "Not at all! I'm here to chat 24/7."
+  },
+  {
+    "question": "what's your favorite language?",
+    "answer": "I love all programming languages equally!"
+  },
+  {
+    "question": "goodbye!",
+    "answer": "Goodbye! Come back anytime you need help."
+  },
+  {
+    "question": "what is a chatbot used for?",
+    "answer": "A chatbot is used for customer support, automation, information delivery, and user engagement."
+  },
+  {
+    "question": "how do chatbots work?",
+    "answer": "Chatbots work by interpreting user input and responding using predefined rules or AI models."
+  },
+  {
+    "question": "can chatbots replace humans?",
+    "answer": "No. They can assist with repetitive tasks but lack empathy and complex reasoning."
+  },
+  {
+    "question": "are you smarter than humans?",
+    "answer": "Not at all. I'm designed to assist, not replace human intelligence."
+  },
+  {
+    "question": "can i train you?",
+    "answer": "You can't directly train me, but the developer can update my responses or integrate learning."
+  },
+  {
+    "question": "what platform are you built on?",
+    "answer": "I’m powered by OpenAI's GPT model and rule-based logic integrated by Aryan Sengar."
+  },
+  {
+    "question": "do you support images?",
+    "answer": "Currently, I support only text input and output."
+  },
+  {
+    "question": "can i restart our chat?",
+    "answer": "Yes! Just type 'reset' or refresh the chat interface."
+  },
+  {
+    "question": "how do i use this chatbot?",
+    "answer": "Type your question in the input box and wait for a reply."
+  },
+  {
+    "question": "can you explain deep learning?",
+    "answer": "Deep learning is a subset of machine learning that uses neural networks to model complex patterns in data."
+  },
+  {
+    "question": "what is a neural network?",
+    "answer": "A neural network is a system of algorithms designed to recognize patterns, similar to how the human brain works."
+  },
+  {
+    "question": "what is supervised learning?",
+    "answer": "Supervised learning involves training a model on labeled data so it can predict outcomes for new input."
+  },
+  {
+    "question": "what is unsupervised learning?",
+    "answer": "Unsupervised learning involves training a model on unlabeled data to find hidden patterns or groupings."
+  },
+  {
+    "question": "what is reinforcement learning?",
+    "answer": "Reinforcement learning teaches an agent to make decisions by rewarding desirable behavior."
+  },
+  {
+    "question": "can you debug my code?",
+    "answer": "I can help identify issues in your code snippets if you share them with me."
+  },
+  {
+    "question": "how do i center text in html?",
+    "answer": "Use `<div style='text-align:center;'>Your Text</div>` or apply CSS with `text-align: center;`"
+  },
+  {
+    "question": "how do i add css to html?",
+    "answer": "You can add CSS via inline styles, `<style>` tags in the `<head>`, or external `.css` files."
+  },
+  {
+    "question": "how do i run a python file?",
+    "answer": "Save your script with a `.py` extension and run it using `python filename.py` in a terminal."
+  },
+  {
+    "question": "what is pip?",
+    "answer": "PIP is the package installer for Python. Use it to install libraries like `pip install numpy`."
+  },
+  {
+    "question": "how do i install python?",
+    "answer": "Go to https://www.python.org/downloads/ and follow the instructions for your OS."
+  },
+  {
+    "question": "how do i create a website?",
+    "answer": "Start with HTML, CSS, and JavaScript. You can host your site using GitHub Pages, Netlify, or other platforms."
+  },
+  {
+    "question": "what is github?",
+    "answer": "GitHub is a platform for version control and collaboration using Git."
+  },
+  {
+    "question": "what is a repository?",
+    "answer": "A repository is a folder where your project's code and version history is stored."
+  },
+  {
+    "question": "what is version control?",
+    "answer": "Version control helps you track and manage changes to code over time, usually using Git."
+  },
+  {
+    "question": "what is git?",
+    "answer": "Git is a version control system used to manage and track changes in code."
+  },
+  {
+    "question": "how do i clone a repo?",
+    "answer": "Use the command `git clone <repo-url>` in your terminal or Git client."
+  },
+  {
+    "question": "how do i commit changes?",
+    "answer": "Use `git commit -m 'your message'` after staging your changes with `git add`."
+  },
+  {
+    "question": "what is push in git?",
+    "answer": "Pushing sends your local changes to the remote repository."
+  },
+  {
+    "question": "what is pull in git?",
+    "answer": "Pulling fetches the latest changes from the remote repository to your local repo."
+  },
+  {
+    "question": "can you explain api with an example?",
+    "answer": "An API lets software communicate. For example, a weather app uses an API to fetch forecast data from a server."
+  },
+  {
+    "question": "what is postman?",
+    "answer": "Postman is a tool for testing and interacting with APIs through a graphical interface."
+  },
+  {
+    "question": "how do i send a get request?",
+    "answer": "You can send a GET request using `curl`, Postman, or fetch in JavaScript: `fetch('url')`."
+  },
+  {
+    "question": "what is http?",
+    "answer": "HTTP stands for Hypertext Transfer Protocol — it's the foundation of data communication on the web."
+  },
+  {
+    "question": "what is https?",
+    "answer": "HTTPS is the secure version of HTTP, which encrypts communication using SSL/TLS."
+  },
+  {
+    "question": "what is localhost?",
+    "answer": "localhost refers to your own computer, typically used for testing web apps locally."
+  },
+  {
+    "question": "what is port 8080?",
+    "answer": "Port 8080 is commonly used for web servers as an alternative to the default port 80."
+  },
+  {
+    "question": "what is a frontend?",
+    "answer": "The frontend is the part of a website or app that users interact with directly."
+  },
+  {
+    "question": "what is a backend?",
+    "answer": "The backend refers to the server-side logic, databases, and APIs behind an application."
+  },
+  {
+    "question": "what is a database?",
+    "answer": "A database is an organized collection of data, often accessed electronically."
+  },
+  {
+    "question": "what is sql?",
+    "answer": "SQL stands for Structured Query Language — used to manage data in relational databases."
+  },
+  {
+    "question": "how do i create a table in sql?",
+    "answer": "Use `CREATE TABLE tablename (column1 TYPE, column2 TYPE);`"
+  },
+  {
+    "question": "how do i insert data in sql?",
+    "answer": "Use `INSERT INTO tablename (column1, column2) VALUES (value1, value2);`"
+  },
+  {
+    "question": "what is a primary key?",
+    "answer": "A primary key uniquely identifies each record in a database table."
+  },
+  {
+    "question": "what is a foreign key?",
+    "answer": "A foreign key links records in one table to another using a common field."
+  },
+  {
+    "question": "what is indexing in databases?",
+    "answer": "Indexing improves the speed of data retrieval operations on a database table."
+  },
+  {
+    "question": "what is mongodb?",
+    "answer": "MongoDB is a NoSQL database that stores data in JSON-like documents."
+  },
+  {
+    "question": "what is nosql?",
+    "answer": "NoSQL databases are non-relational and designed for flexible, scalable data storage."
+  },
+  {
+    "question": "how do i install node.js?",
+    "answer": "Download it from https://nodejs.org and run the installer for your OS."
+  },
+  {
+    "question": "what is npm?",
+    "answer": "NPM is the Node Package Manager — used to install and manage JavaScript packages."
+  },
+  {
+    "question": "how do i create a node project?",
+    "answer": "Use `npm init` in your terminal to set up a new Node.js project."
+  },
+  {
+    "question": "what is express.js?",
+    "answer": "Express.js is a web framework for Node.js that simplifies server-side development."
+  },
+  {
+    "question": "what is react?",
+    "answer": "React is a JavaScript library for building user interfaces."
+  },
+  {
+    "question": "what is a component in react?",
+    "answer": "A component is a reusable piece of UI in a React application."
+  },
+  {
+    "question": "how do i create a component in react?",
+    "answer": "Define a function or class that returns JSX, like `function MyComponent() { return <div>Hello</div>; }`"
+  },
+  {
+    "question": "what is jsx?",
+    "answer": "JSX is a syntax extension that lets you write HTML-like code in JavaScript."
+  },
+  {
+    "question": "what is state in react?",
+    "answer": "State is a built-in object used to store data that changes over time in a component."
+  },
+  {
+    "question": "what is a hook in react?",
+    "answer": "Hooks let you use state and lifecycle methods in functional components, like `useState` and `useEffect`."
+  },
+  {
+    "question": "what is useeffect in react?",
+    "answer": "`useEffect` is a hook that lets you run code after the component renders, like fetching data."
+  },
+  {
+    "question": "what is router in react?",
+    "answer": "React Router is a library that enables navigation between views in a React application."
+  },
+  {
+    "question": "what is vite?",
+    "answer": "Vite is a fast build tool and development server for modern web projects, often used with React or Vue."
+  },
+  {
+    "question": "what is tailwind css?",
+    "answer": "Tailwind CSS is a utility-first CSS framework for rapidly building custom designs."
+  },
+  {
+    "question": "what is bootstrap?",
+    "answer": "Bootstrap is a popular CSS framework for responsive, mobile-first websites."
+  },
+  {
+    "question": "how do i deploy a react app?",
+    "answer": "You can use Netlify, Vercel, or GitHub Pages to deploy your React app."
+  },
+  {
+    "question": "what is netlify?",
+    "answer": "Netlify is a platform for hosting web applications with continuous deployment and CDN."
+  },
+  {
+    "question": "what is vercel?",
+    "answer": "Vercel is a cloud platform for static sites and serverless functions, often used with Next.js."
+  },
+  {
+    "question": "how do i build a portfolio?",
+    "answer": "Build it using HTML/CSS or React, add sections like About, Projects, Skills, and deploy it online."
+  },
+  {
+    "question": "what should i include in my portfolio?",
+    "answer": "Include an introduction, projects, skills, certifications, contact info, and links to GitHub/LinkedIn."
+  },
+  {
+    "question": "can you help me write a resume?",
+    "answer": "Yes! Tell me your details and I can generate a basic resume for you."
+  },
+  {
+    "question": "what is a cover letter?",
+    "answer": "A cover letter is a short letter that introduces you and explains why you're a good fit for a job."
+  },
+  {
+    "question": "how long should a resume be?",
+    "answer": "Ideally 1 page for freshers and 1-2 pages for experienced professionals."
+  },
+  {
+    "question": "should i include my photo in resume?",
+    "answer": "It's optional and depends on regional norms. In most tech roles, it's not required."
+  },
+  {
+    "question": "what is linkedin?",
+    "answer": "LinkedIn is a professional networking platform used for job hunting, showcasing skills, and connecting with others."
+  },
+  {
+    "question": "what is github pages?",
+    "answer": "GitHub Pages lets you host static websites directly from a GitHub repository."
+  },
+  {
+    "question": "how do i host a static site?",
+    "answer": "You can use GitHub Pages, Netlify, or Firebase Hosting to deploy static sites."
+  },
+  {
+    "question": "can you help with interview preparation?",
+    "answer": "Yes! I can provide common interview questions, tips, and mock answers."
+  },
+  {
+    "question": "how do i prepare for coding interviews?",
+    "answer": "Practice data structures, algorithms, and problem-solving on platforms like LeetCode, HackerRank, or Codeforces."
+  },
+  {
+    "question": "what is an algorithm?",
+    "answer": "An algorithm is a step-by-step set of instructions to solve a specific problem."
+  },
+  {
+    "question": "what is big o notation?",
+    "answer": "Big O describes the worst-case time or space complexity of an algorithm."
+  },
+  {
+    "question": "can you give a sorting algorithm example?",
+    "answer": "Sure! Here's bubble sort:\n```python\ndef bubble_sort(arr):\n  n = len(arr)\n  for i in range(n):\n    for j in range(0, n-i-1):\n      if arr[j] > arr[j+1]:\n        arr[j], arr[j+1] = arr[j+1], arr[j]\n```"
+  },
+  {
+    "question": "what is a data structure?",
+    "answer": "A data structure is a way to organize and store data so it can be accessed and modified efficiently."
+  },
+  {
+    "question": "what is an array?",
+    "answer": "An array is a collection of elements, each identified by an index or key."
+  },
+  {
+    "question": "what is a linked list?",
+    "answer": "A linked list is a linear data structure where each element points to the next."
+  },
+  {
+    "question": "what is a stack?",
+    "answer": "A stack is a data structure that follows the Last In First Out (LIFO) principle."
+  },
+  {
+    "question": "what is a queue?",
+    "answer": "A queue is a data structure that follows the First In First Out (FIFO) principle."
+  },
+  {
+    "question": "what is a hash table?",
+    "answer": "A hash table stores key-value pairs and allows fast data retrieval using hash functions."
+  },
+  {
+    "question": "what is a tree?",
+    "answer": "A tree is a hierarchical data structure with a root node and child nodes."
+  },
+  {
+    "question": "what is a binary search tree?",
+    "answer": "A binary search tree is a type of tree where each node has at most two children and the left child is less than the parent."
+  },
+  {
+    "question": "what is a graph?",
+    "answer": "A graph is a collection of nodes (vertices) and edges that connect pairs of nodes."
+  },
+  {
+    "question": "what is dfs?",
+    "answer": "DFS stands for Depth First Search, a graph traversal algorithm."
+  },
+  {
+    "question": "what is bfs?",
+    "answer": "BFS stands for Breadth First Search, another method of traversing graphs."
+  },
+  {
+    "question": "what is dynamic programming?",
+    "answer": "Dynamic programming is an optimization technique that solves problems by breaking them into overlapping subproblems."
+  },
+  {
+    "question": "what is recursion?",
+    "answer": "Recursion is a technique where a function calls itself to solve a smaller instance of the same problem."
+  },
+  {
+    "question": "what is memoization?",
+    "answer": "Memoization is a technique to store results of expensive function calls to avoid repeated work."
+  },
+  {
+    "question": "what is time complexity?",
+    "answer": "Time complexity describes how the execution time of an algorithm grows with input size."
+  },
+  {
+    "question": "what is space complexity?",
+    "answer": "Space complexity refers to the amount of memory an algorithm uses as the input size increases."
+  },
+  {
+    "question": "what is a sorting algorithm?",
+    "answer": "A sorting algorithm arranges elements in a specific order, such as ascending or descending."
+  },
+  {
+    "question": "what is bubble sort?",
+    "answer": "Bubble sort is a simple sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order."
+  },
+  {
+    "question": "what is selection sort?",
+    "answer": "Selection sort selects the smallest element and moves it to the front in each pass."
+  },
+  {
+    "question": "what is insertion sort?",
+    "answer": "Insertion sort builds the sorted array one item at a time by inserting items into their correct position."
+  },
+  {
+    "question": "what is merge sort?",
+    "answer": "Merge sort is a divide-and-conquer algorithm that splits the array, sorts each part, and merges them."
+  },
+  {
+    "question": "what is quick sort?",
+    "answer": "Quick sort selects a pivot and partitions the array around the pivot, then recursively sorts subarrays."
+  },
+  {
+    "question": "what is heap sort?",
+    "answer": "Heap sort converts the array into a heap and repeatedly extracts the max (or min) element."
+  },
+  {
+    "question": "what is linear search?",
+    "answer": "Linear search checks each element of a list until the target is found or the list ends."
+  },
+  {
+    "question": "what is binary search?",
+    "answer": "Binary search divides a sorted list in half repeatedly to find a target value."
+  },
+  {
+    "question": "what is a class in oop?",
+    "answer": "A class is a blueprint for creating objects in Object-Oriented Programming."
+  },
+  {
+    "question": "what is an object?",
+    "answer": "An object is an instance of a class, containing data and methods to operate on that data."
+  },
+  {
+    "question": "what is inheritance?",
+    "answer": "Inheritance allows one class to acquire properties and methods from another class."
+  },
+  {
+    "question": "what is polymorphism?",
+    "answer": "Polymorphism allows methods to behave differently based on the object calling them."
+  },
+  {
+    "question": "what is encapsulation?",
+    "answer": "Encapsulation means hiding internal state and requiring all interaction through methods."
+  },
+  {
+    "question": "what is abstraction?",
+    "answer": "Abstraction means exposing only essential features while hiding implementation details."
+  },
+  {
+    "question": "what is an interface?",
+    "answer": "An interface defines a contract that classes must follow, without providing implementation."
+  },
+  {
+    "question": "what is a constructor?",
+    "answer": "A constructor is a special method used to initialize objects when a class is instantiated."
+  },
+  {
+    "question": "what is method overloading?",
+    "answer": "Method overloading allows multiple methods with the same name but different parameters."
+  },
+  {
+    "question": "what is method overriding?",
+    "answer": "Method overriding allows a subclass to provide a specific implementation of a method already defined in its superclass."
+  },
+  {
+    "question": "what is a static variable?",
+    "answer": "A static variable belongs to the class, not individual instances of the class."
+  },
+  {
+    "question": "what is a final keyword?",
+    "answer": "The final keyword restricts further modification — it can mark variables, methods, or classes."
+  },
+  {
+    "question": "what is exception handling?",
+    "answer": "Exception handling is a process to manage runtime errors using try, catch, and finally blocks."
+  },
+  {
+    "question": "what is a try block?",
+    "answer": "A try block contains code that might throw an exception."
+  },
+  {
+    "question": "what is a catch block?",
+    "answer": "A catch block handles specific exceptions thrown from the try block."
+  },
+  {
+    "question": "what is a finally block?",
+    "answer": "The finally block always runs after try and catch, whether or not an exception was thrown."
+  },
+  {
+    "question": "what is a runtime error?",
+    "answer": "A runtime error occurs while the program is running, such as division by zero or null reference."
+  },
+  {
+    "question": "what is a syntax error?",
+    "answer": "A syntax error occurs when the code violates the grammar rules of the programming language."
+  },
+  {
+    "question": "what is a logical error?",
+    "answer": "A logical error is a bug where the code runs without crashing but produces incorrect results."
+  },
+  {
+    "question": "what is multithreading?",
+    "answer": "Multithreading allows multiple parts of a program to run simultaneously, improving performance."
+  },
+  {
+    "question": "what is concurrency?",
+    "answer": "Concurrency is the ability of a system to run multiple tasks in overlapping time periods."
+  },
+  {
+    "question": "what is parallelism?",
+    "answer": "Parallelism is the simultaneous execution of multiple tasks, usually on multi-core processors."
+  },
+  {
+    "question": "what is a thread?",
+    "answer": "A thread is the smallest unit of execution in a program."
+  },
+  {
+    "question": "what is a process?",
+    "answer": "A process is a program in execution, containing one or more threads."
+  },
+  {
+    "question": "what is deadlock?",
+    "answer": "A deadlock occurs when two or more threads are blocked forever, each waiting for the other to release a resource."
+  },
+  {
+    "question": "what is synchronization?",
+    "answer": "Synchronization is a mechanism to control access to shared resources in concurrent programming."
+  },
+  {
+    "question": "what is a race condition?",
+    "answer": "A race condition happens when the behavior of software depends on the sequence or timing of uncontrollable events."
+  },
+  {
+    "question": "what is a semaphore?",
+    "answer": "A semaphore is a signaling mechanism used to manage access to shared resources in concurrent systems."
+  },
+  {
+    "question": "what is a mutex?",
+    "answer": "A mutex is a mutual exclusion object used to prevent multiple threads from accessing a resource at the same time."
+  },
+  {
+    "question": "what is an operating system?",
+    "answer": "An operating system manages hardware and software resources and provides services for computer programs."
+  },
+  {
+    "question": "what is process scheduling?",
+    "answer": "Process scheduling is the method by which an OS decides which process to run next."
+  },
+  {
+    "question": "what is virtual memory?",
+    "answer": "Virtual memory is a memory management technique that gives the illusion of having more memory than physically available."
+  },
+  {
+    "question": "what is paging?",
+    "answer": "Paging is a memory management technique that stores data in fixed-size blocks called pages."
+  },
+  {
+    "question": "what is segmentation?",
+    "answer": "Segmentation divides memory into variable-sized segments based on program structure like code, stack, and data."
+  },
+  {
+    "question": "what is a file system?",
+    "answer": "A file system organizes and manages how data is stored and retrieved on storage devices."
+  },
+  {
+    "question": "what is a kernel?",
+    "answer": "The kernel is the core component of an operating system, managing hardware, processes, and memory."
+  },
+  {
+    "question": "what is a shell?",
+    "answer": "A shell is a command-line interface that allows users to interact with the OS."
+  },
+  {
+    "question": "what is linux?",
+    "answer": "Linux is a free, open-source operating system based on Unix."
+  },
+  {
+    "question": "what is a bash script?",
+    "answer": "A bash script is a file containing shell commands that automate tasks in Unix/Linux environments."
+  },
+  {
+    "question": "how do i check system info in linux?",
+    "answer": "Use commands like `uname -a`, `top`, or `htop` to view system information."
+  },
+  {
+    "question": "how do i list files in a directory?",
+    "answer": "Use `ls` on Linux/macOS or `dir` on Windows to list files."
+  },
+  {
+    "question": "how do i navigate directories?",
+    "answer": "Use `cd foldername` to change into a directory."
+  },
+  {
+    "question": "how do i create a file from terminal?",
+    "answer": "Use `touch filename` in Linux or `echo > filename` in Windows."
+  },
+  {
+    "question": "how do i delete a file?",
+    "answer": "Use `rm filename` in Linux or `del filename` in Windows."
+  },
+  {
+    "question": "how do i rename a file?",
+    "answer": "Use `mv oldname newname` in Linux or `rename` in Windows."
+  },
+  {
+    "question": "how do i copy a file in linux?",
+    "answer": "Use the `cp source destination` command to copy a file."
+  },
+  {
+    "question": "how do i move a file?",
+    "answer": "Use the `mv` command in Linux or `move` in Windows."
+  },
+  {
+    "question": "how do i check disk usage?",
+    "answer": "Use `df -h` for disk space and `du -sh *` for folder sizes."
+  },
+  {
+    "question": "how do i check running processes?",
+    "answer": "Use `ps`, `top`, or `htop` in Linux to monitor processes."
+  },
+  {
+    "question": "how do i kill a process?",
+    "answer": "Use `kill PID` or `killall processname` in Linux."
+  },
+  {
+    "question": "what is a daemon?",
+    "answer": "A daemon is a background process that runs continuously in Unix/Linux systems."
+  },
+  {
+    "question": "what is cron?",
+    "answer": "Cron is a Linux utility for scheduling recurring tasks using cron jobs."
+  },
+  {
+    "question": "how do i schedule a task in linux?",
+    "answer": "Use `crontab -e` to edit the cron jobs and define task schedules."
+  },
+  {
+    "question": "what is ssh?",
+    "answer": "SSH stands for Secure Shell — a protocol for secure remote login and command execution."
+  },
+  {
+    "question": "how do i connect to a server with ssh?",
+    "answer": "Use `ssh user@server_ip` to connect securely."
+  },
+  {
+    "question": "what is scp?",
+    "answer": "SCP is a command-line tool to securely copy files between hosts over SSH."
+  },
+  {
+    "question": "how do i transfer files using scp?",
+    "answer": "Use `scp filename user@host:/destination/` to transfer files securely."
+  },
+  {
+    "question": "what is ftp?",
+    "answer": "FTP stands for File Transfer Protocol — used to transfer files over the Internet."
+  },
+  {
+    "question": "what is sftp?",
+    "answer": "SFTP is Secure FTP — it transfers files over SSH, adding encryption and security."
+  },
+  {
+    "question": "what is docker?",
+    "answer": "Docker is a platform for developing, shipping, and running applications in containers."
+  },
+  {
+    "question": "what is a container?",
+    "answer": "A container is a lightweight, portable unit that packages an app with its dependencies."
+  },
+  {
+    "question": "how do i run a docker container?",
+    "answer": "Use `docker run image_name` to run a container."
+  },
+  {
+    "question": "what is dockerfile?",
+    "answer": "A Dockerfile is a script that contains instructions to build a Docker image."
+  },
+  {
+    "question": "what is kubernetes?",
+    "answer": "Kubernetes is a container orchestration system for automating deployment and scaling of applications."
+  },
+  {
+    "question": "what is yaml?",
+    "answer": "YAML stands for 'YAML Ain't Markup Language' — a human-readable format used for config files."
+  },
+  {
+    "question": "what is ci/cd?",
+    "answer": "CI/CD stands for Continuous Integration and Continuous Deployment — a practice to automate code testing and deployment."
+  },
+  {
+    "question": "what is jenkins?",
+    "answer": "Jenkins is an open-source automation server for implementing CI/CD pipelines."
+  },
+  {
+    "question": "what is devops?",
+    "answer": "DevOps is a set of practices combining software development and IT operations to deliver software faster and reliably."
+  },
+  {
+    "question": "what is agile?",
+    "answer": "Agile is a methodology that promotes continuous iteration of development and testing throughout the software development lifecycle."
+  },
+  {
+    "question": "what is scrum?",
+    "answer": "Scrum is an agile framework used to manage complex software development with sprints and roles."
+  },
+  {
+    "question": "what is a sprint?",
+    "answer": "A sprint is a short, time-boxed period in which a team works to complete a set amount of work."
+  },
+  {
+    "question": "what is a stand-up meeting?",
+    "answer": "A stand-up is a daily meeting where team members briefly share updates, plans, and blockers."
+  },
+  {
+    "question": "what is jira?",
+    "answer": "Jira is a project management tool used for tracking software development tasks and bugs."
+  },
+  {
+    "question": "what is a user story?",
+    "answer": "A user story is a short description of a feature from the perspective of the end-user."
+  },
+  {
+    "question": "what is a backlog?",
+    "answer": "A backlog is a prioritized list of work for the development team derived from the roadmap and requirements."
+  },
+  {
+    "question": "what is a burndown chart?",
+    "answer": "A burndown chart shows the remaining work in a sprint or project and helps track progress."
+  },
+  {
+    "question": "what is tdd?",
+    "answer": "TDD stands for Test-Driven Development — write tests before writing the actual code."
+  },
+  {
+    "question": "what is unit testing?",
+    "answer": "Unit testing involves testing individual components or functions of a program for correctness."
+  },
+  {
+    "question": "what is integration testing?",
+    "answer": "Integration testing checks if different modules or services work well together."
+  },
+  {
+    "question": "what is system testing?",
+    "answer": "System testing evaluates the complete and integrated software system against the requirements."
+  },
+  {
+    "question": "what is regression testing?",
+    "answer": "Regression testing ensures new code changes haven't affected existing functionality."
+  },
+  {
+    "question": "what is selenium?",
+    "answer": "Selenium is an open-source tool for automating web browsers."
+  },
+  {
+    "question": "what is junit?",
+    "answer": "JUnit is a framework used for unit testing Java applications."
+  },
+  {
+    "question": "what is mock testing?",
+    "answer": "Mock testing uses simulated objects to test the behavior of real components."
+  },
+  {
+    "question": "what is postgresql?",
+    "answer": "PostgreSQL is an advanced open-source relational database management system."
+  },
+  {
+    "question": "what is mysql?",
+    "answer": "MySQL is an open-source relational database management system known for speed and reliability."
+  },
+  {
+    "question": "what is sqlite?",
+    "answer": "SQLite is a self-contained, serverless SQL database engine that stores data in a local file."
+  },
+  {
+    "question": "what is firebase?",
+    "answer": "Firebase is a cloud platform by Google for building and managing mobile and web apps."
+  },
+  {
+    "question": "what is firestore?",
+    "answer": "Firestore is a scalable NoSQL cloud database by Firebase for real-time syncing and offline access."
+  },
+  {
+    "question": "what is authentication?",
+    "answer": "Authentication is the process of verifying a user's identity."
+  },
+  {
+    "question": "what is authorization?",
+    "answer": "Authorization determines what actions a user can perform after they are authenticated."
+  },
+  {
+    "question": "what is jwt?",
+    "answer": "JWT (JSON Web Token) is a secure way to transmit information between parties as a JSON object."
+  },
+  {
+    "question": "what is oauth?",
+    "answer": "OAuth is an open-standard authorization protocol that allows access to user resources without sharing credentials."
+  },
+  {
+    "question": "what is ssl?",
+    "answer": "SSL (Secure Sockets Layer) is a protocol for establishing encrypted links between networked computers."
+  },
+  {
+    "question": "what is tls?",
+    "answer": "TLS (Transport Layer Security) is a newer, more secure version of SSL."
+  },
+  {
+    "question": "what is cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks."
+  },
+  {
+    "question": "what is phishing?",
+    "answer": "Phishing is a cyber attack where users are tricked into revealing sensitive information via fake emails or websites."
+  },
+  {
+    "question": "what is malware?",
+    "answer": "Malware is malicious software designed to harm or exploit systems or data."
+  },
+  {
+    "question": "what is ransomware?",
+    "answer": "Ransomware is a type of malware that locks users out of their data until a ransom is paid."
+  },
+  {
+    "question": "what is a firewall?",
+    "answer": "A firewall is a network security device that monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "question": "what is antivirus software?",
+    "answer": "Antivirus software detects, prevents, and removes malware from computer systems."
+  },
+  {
+    "question": "what is hashing?",
+    "answer": "Hashing transforms data into a fixed-size hash code used for security or data lookup."
+  },
+  {
+    "question": "what is encryption?",
+    "answer": "Encryption is the process of converting data into a code to prevent unauthorized access."
+  },
+  {
+    "question": "what is decryption?",
+    "answer": "Decryption is the process of converting encrypted data back to its original form."
+  },
+  {
+    "question": "what is a vpn?",
+    "answer": "A VPN (Virtual Private Network) encrypts your internet connection and hides your IP address for privacy and security."
+  },
+  {
+    "question": "what is penetration testing?",
+    "answer": "Penetration testing is an ethical hacking process to find and fix security vulnerabilities."
+  },
+  {
+    "question": "what is ethical hacking?",
+    "answer": "Ethical hacking involves legally breaking into systems to identify and fix security flaws."
+  },
+  {
+    "question": "what is social engineering?",
+    "answer": "Social engineering is a method of manipulating people to reveal confidential information."
+  },
+  {
+    "question": "what is a botnet?",
+    "answer": "A botnet is a network of infected computers controlled by a hacker, usually for malicious purposes."
+  },
+  {
+    "question": "what is ddos?",
+    "answer": "A DDoS (Distributed Denial of Service) attack overwhelms a system with traffic, making it unavailable."
+  },
+  {
+    "question": "what is cloud computing?",
+    "answer": "Cloud computing is the delivery of computing services—like servers, storage, databases, and software—over the internet."
+  },
+  {
+    "question": "what are the types of cloud computing?",
+    "answer": "The main types are IaaS (Infrastructure as a Service), PaaS (Platform as a Service), and SaaS (Software as a Service)."
+  },
+  {
+    "question": "what is iaas?",
+    "answer": "IaaS provides virtualized computing resources over the internet like servers and storage."
+  },
+  {
+    "question": "what is paas?",
+    "answer": "PaaS offers a platform for developers to build, test, and deploy applications without managing infrastructure."
+  },
+  {
+    "question": "what is saas?",
+    "answer": "SaaS delivers software applications over the internet on a subscription basis."
+  },
+  {
+    "question": "what is aws?",
+    "answer": "AWS (Amazon Web Services) is a comprehensive cloud computing platform offered by Amazon."
+  },
+  {
+    "question": "what is azure?",
+    "answer": "Microsoft Azure is a cloud computing platform and service provided by Microsoft."
+  },
+  {
+    "question": "what is google cloud?",
+    "answer": "Google Cloud is a suite of cloud computing services provided by Google."
+  },
+  {
+    "question": "what is ec2 in aws?",
+    "answer": "EC2 (Elastic Compute Cloud) provides resizable compute capacity in the AWS cloud."
+  },
+  {
+    "question": "what is s3 in aws?",
+    "answer": "Amazon S3 (Simple Storage Service) is an object storage service for data backup and archiving."
+  },
+  {
+    "question": "what is lambda in aws?",
+    "answer": "AWS Lambda lets you run code without provisioning or managing servers."
+  },
+  {
+    "question": "what is cloud storage?",
+    "answer": "Cloud storage allows users to save data remotely and access it over the internet."
+  },
+  {
+    "question": "what is scalability in cloud?",
+    "answer": "Scalability is the ability to increase or decrease resources as needed to meet demand."
+  },
+  {
+    "question": "what is elasticity in cloud?",
+    "answer": "Elasticity refers to automatically scaling resources up or down depending on workload."
+  },
+  {
+    "question": "what is a virtual machine?",
+    "answer": "A virtual machine is an emulation of a computer system that runs on physical hardware."
+  },
+  {
+    "question": "what is a container in cloud?",
+    "answer": "A container packages an application and its dependencies to run consistently across environments."
+  },
+  {
+    "question": "what is a microservice?",
+    "answer": "A microservice is a small, independent service that performs a specific business function."
+  },
+  {
+    "question": "what is serverless computing?",
+    "answer": "Serverless computing lets developers build and run applications without managing servers."
+  },
+  {
+    "question": "what is cloud migration?",
+    "answer": "Cloud migration is the process of moving data, apps, or workloads to a cloud environment."
+  },
+  {
+    "question": "what is edge computing?",
+    "answer": "Edge computing processes data near the source of generation to reduce latency."
+  },
+  {
+    "question": "what is hybrid cloud?",
+    "answer": "A hybrid cloud combines public and private clouds to allow data and apps to be shared between them."
+  },
+  {
+    "question": "what is public cloud?",
+    "answer": "Public cloud is owned by third-party providers and offers services to multiple customers over the internet."
+  },
+  {
+    "question": "what is private cloud?",
+    "answer": "Private cloud is dedicated to a single organization and offers more control and security."
+  },
+  {
+    "question": "what is devops in cloud?",
+    "answer": "DevOps in cloud combines development and operations practices with cloud infrastructure for faster delivery."
+  },
+  {
+    "question": "what is cost optimization in cloud?",
+    "answer": "Cost optimization is the practice of reducing cloud spend without compromising performance."
+  },
+  {
+    "question": "what is load balancing?",
+    "answer": "Load balancing distributes incoming network traffic across multiple servers to ensure availability and performance."
+  },
+  {
+    "question": "what is autoscaling?",
+    "answer": "Autoscaling automatically adjusts the number of resources to handle changing traffic loads."
+  },
+  {
+    "question": "what is multi-cloud strategy?",
+    "answer": "A multi-cloud strategy uses services from more than one cloud provider to avoid vendor lock-in."
+  },
+  {
+    "question": "what is sla?",
+    "answer": "SLA (Service Level Agreement) defines the level of service expected from a cloud provider."
+  },
+  {
+    "question": "what is cloud compliance?",
+    "answer": "Cloud compliance ensures cloud services meet regulatory and legal standards."
+  },
+  {
+    "question": "what is cloud monitoring?",
+    "answer": "Cloud monitoring tracks performance, availability, and security of cloud resources."
+  },
+  {
+    "question": "what is cloud orchestration?",
+    "answer": "Cloud orchestration automates the coordination and management of cloud infrastructure and services."
+  },
+  {
+    "question": "what is cloud bursting?",
+    "answer": "Cloud bursting allows workloads to spill over into public cloud when on-prem resources are full."
+  },
+  {
+    "question": "what is dns?",
+    "answer": "DNS (Domain Name System) translates domain names into IP addresses."
+  },
+  {
+    "question": "what is a domain name?",
+    "answer": "A domain name is the human-readable address of a website (e.g., example.com)."
+  },
+  {
+    "question": "what is an ip address?",
+    "answer": "An IP address is a unique string that identifies a device on a network."
+  },
+  {
+    "question": "what is ipv4?",
+    "answer": "IPv4 is the fourth version of the Internet Protocol, using 32-bit addresses."
+  },
+  {
+    "question": "what is ipv6?",
+    "answer": "IPv6 is the latest version of IP, using 128-bit addresses to handle more devices."
+  },
+  {
+    "question": "what is a vpn tunnel?",
+    "answer": "A VPN tunnel is an encrypted connection between two devices over the internet."
+  },
+  {
+    "question": "what is latency?",
+    "answer": "Latency is the time it takes for data to travel from the source to the destination."
+  },
+  {
+    "question": "what is bandwidth?",
+    "answer": "Bandwidth is the maximum data transfer rate of a network or internet connection."
+  },
+  {
+    "question": "what is packet loss?",
+    "answer": "Packet loss happens when data packets traveling across a network fail to reach their destination."
+  },
+  {
+    "question": "what is dns propagation?",
+    "answer": "DNS propagation is the time it takes for DNS changes to update across the internet."
+  },
+  {
+    "question": "what is dhcp?",
+    "answer": "DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses to devices on a network."
+  },
+  {
+    "question": "what is a mac address?",
+    "answer": "A MAC address is a hardware identifier that uniquely identifies a device on a network."
+  },
+  {
+    "question": "what is port forwarding?",
+    "answer": "Port forwarding redirects communication requests from one IP/port to another, commonly used for remote access."
+  },
+  {
+    "question": "what is nat?",
+    "answer": "NAT (Network Address Translation) allows multiple devices to share one public IP address."
+  },
+  {
+    "question": "what is a proxy server?",
+    "answer": "A proxy server acts as an intermediary between a user and the internet to filter or cache requests."
+  },
+  {
+    "question": "what is a firewall rule?",
+    "answer": "A firewall rule defines what kind of network traffic is allowed or denied on a system or network."
+  },
+  {
+    "question": "what is intrusion detection system?",
+    "answer": "An IDS monitors network traffic for suspicious activity or policy violations."
+  },
+  {
+    "question": "what is zero trust security?",
+    "answer": "Zero Trust Security assumes no trust by default and requires verification for every access attempt."
+  },
+  {
+    "question": "what is a certificate authority?",
+    "answer": "A Certificate Authority (CA) issues digital certificates that verify the identity of websites and users."
+  },
+  {
+    "question": "what is two-factor authentication?",
+    "answer": "2FA is a security process where users provide two forms of identification to access a system."
+  },
+  {
+    "question": "what is biometric authentication?",
+    "answer": "Biometric authentication uses unique physical characteristics like fingerprints or facial recognition to verify identity."
+  },
+  {
+    "question": "what is an access token?",
+    "answer": "An access token is a credential used to access protected resources after authentication."
+  },
+  {
+    "question": "what is a security breach?",
+    "answer": "A security breach is any incident that results in unauthorized access to data, applications, or systems."
+  },
+  {
+    "question": "what is a phishing attack?",
+    "answer": "A phishing attack tricks users into providing sensitive data like passwords through fake websites or emails."
+  },
+  {
+    "question": "what is a brute force attack?",
+    "answer": "A brute force attack tries all possible password combinations until it finds the correct one."
+  },
+  {
+    "question": "what is social engineering in cybersecurity?",
+    "answer": "Social engineering manipulates people into divulging confidential information or performing certain actions."
+  },
+  {
+    "question": "what is data encryption?",
+    "answer": "Data encryption is the process of converting readable data into unreadable code to protect it from unauthorized access."
+  },
+  {
+    "question": "what is data integrity?",
+    "answer": "Data integrity ensures that data is accurate, consistent, and unaltered during storage or transfer."
+  },
+  {
+    "question": "what is data confidentiality?",
+    "answer": "Data confidentiality refers to protecting data from unauthorized access or disclosure."
+  },
+  {
+    "question": "what is a digital signature?",
+    "answer": "A digital signature is an encrypted fingerprint used to verify the authenticity and integrity of digital data."
+  },
+  {
+    "question": "what is a private key?",
+    "answer": "A private key is a secret key used in cryptography to decrypt data encrypted with the matching public key."
+  },
+  {
+    "question": "what is a public key?",
+    "answer": "A public key is used in cryptography to encrypt data that can only be decrypted by the matching private key."
+  },
+  {
+    "question": "what is symmetric encryption?",
+    "answer": "Symmetric encryption uses the same key to both encrypt and decrypt data."
+  },
+  {
+    "question": "what is asymmetric encryption?",
+    "answer": "Asymmetric encryption uses a public key to encrypt data and a private key to decrypt it."
+  },
+  {
+    "question": "what is a cipher?",
+    "answer": "A cipher is an algorithm used to perform encryption or decryption."
+  },
+  {
+    "question": "what is the difference between ssl and tls?",
+    "answer": "TLS is the modern, more secure version of SSL; both provide encrypted communication."
+  },
+  {
+    "question": "what is hashing used for?",
+    "answer": "Hashing is used to verify data integrity by converting input data into a fixed-size string."
+  },
+  {
+    "question": "what is a hash collision?",
+    "answer": "A hash collision occurs when two different inputs produce the same hash value."
+  },
+  {
+    "question": "what is blockchain?",
+    "answer": "Blockchain is a distributed digital ledger that stores data across many systems in a secure, immutable way."
+  },
+  {
+    "question": "what is bitcoin?",
+    "answer": "Bitcoin is a decentralized digital cryptocurrency built on blockchain technology."
+  },
+  {
+    "question": "what is a smart contract?",
+    "answer": "A smart contract is a self-executing program that automatically enforces the terms of an agreement on blockchain."
+  },
+  {
+    "question": "what is ethereum?",
+    "answer": "Ethereum is a blockchain platform that supports smart contracts and decentralized applications (dApps)."
+  },
+  {
+    "question": "what is a dapp?",
+    "answer": "A dApp (decentralized application) is an application that runs on a blockchain network."
+  },
+  {
+    "question": "what is nft?",
+    "answer": "NFT stands for Non-Fungible Token — a unique digital asset verified on blockchain."
+  },
+  {
+    "question": "what is mining in blockchain?",
+    "answer": "Mining is the process of verifying and adding transactions to a blockchain using computational power."
+  },
+  {
+    "question": "what is proof of work?",
+    "answer": "Proof of Work is a consensus mechanism that requires solving complex math problems to validate transactions."
+  },
+  {
+    "question": "what is proof of stake?",
+    "answer": "Proof of Stake is a consensus mechanism where validators are chosen based on their stake in the network."
+  },
+  {
+    "question": "what is web3?",
+    "answer": "Web3 refers to the next generation of the web that uses decentralized protocols and blockchain technology."
+  },
+  {
+    "question": "what is a crypto wallet?",
+    "answer": "A crypto wallet stores your private and public keys and lets you interact with blockchain networks."
+  },
+  {
+    "question": "what is a hot wallet?",
+    "answer": "A hot wallet is a cryptocurrency wallet connected to the internet, suitable for quick access and trading."
+  },
+  {
+    "question": "what is a cold wallet?",
+    "answer": "A cold wallet stores cryptocurrencies offline, providing higher security against online threats."
+  },
+  {
+    "question": "what is a token?",
+    "answer": "A token is a digital asset built on top of another blockchain, often used in dApps or for utility."
+  },
+  {
+    "question": "what is a coin?",
+    "answer": "A coin is a cryptocurrency that operates on its own blockchain, like Bitcoin or Ethereum."
+  },
+  {
+    "question": "what is deflationary token?",
+    "answer": "A deflationary token has a supply that decreases over time, often by burning tokens during transactions."
+  },
+  {
+    "question": "what is defi?",
+    "answer": "DeFi (Decentralized Finance) refers to financial services built on blockchain technology without traditional banks."
+  },
+  {
+    "question": "what is an exchange?",
+    "answer": "An exchange is a platform where users can buy, sell, and trade cryptocurrencies."
+  },
+  {
+    "question": "what is a centralized exchange?",
+    "answer": "A centralized exchange is controlled by a company that facilitates cryptocurrency trading and holds your assets."
+  },
+  {
+    "question": "what is a decentralized exchange?",
+    "answer": "A decentralized exchange (DEX) allows peer-to-peer crypto trading without intermediaries."
+  },
+  {
+    "question": "what is liquidity?",
+    "answer": "Liquidity refers to how easily an asset can be bought or sold without affecting its price."
+  },
+  {
+    "question": "what is staking?",
+    "answer": "Staking involves holding cryptocurrency in a wallet to support the network and earn rewards."
+  },
+  {
+    "question": "what is yield farming?",
+    "answer": "Yield farming is earning rewards by lending or staking crypto assets in DeFi platforms."
+  },
+  {
+    "question": "what is impermanent loss?",
+    "answer": "Impermanent loss is the temporary loss in value of assets in a liquidity pool compared to just holding them."
+  },
+  {
+    "question": "what is tokenomics?",
+    "answer": "Tokenomics is the study of a cryptocurrency's supply, distribution, and utility within its ecosystem."
+  },
+  {
+    "question": "what is market capitalization in crypto?",
+    "answer": "Market capitalization is the total value of a cryptocurrency, calculated by multiplying supply with price."
+  },
+  {
+    "question": "what is a rug pull?",
+    "answer": "A rug pull is a scam where developers abandon a project and run away with investor funds."
+  },
+  {
+    "question": "what is airdrop in crypto?",
+    "answer": "An airdrop is the distribution of free tokens to promote a cryptocurrency project."
+  },
+  {
+    "question": "what is a whitelist?",
+    "answer": "A whitelist is a list of approved participants allowed to join a crypto token sale or event."
+  },
+  {
+    "question": "what is kyc?",
+    "answer": "KYC (Know Your Customer) is a verification process required to comply with financial regulations."
+  },
+  {
+    "question": "what is doxxing?",
+    "answer": "Doxxing is the act of publicly revealing someone's private or personal information online."
+  },
+  {
+    "question": "what is a 51% attack?",
+    "answer": "A 51% attack is when a group controls over half of a blockchain's hash rate, enabling fraudulent transactions."
+  },
+  {
+    "question": "what is gas fee?",
+    "answer": "A gas fee is a transaction cost paid by users to perform operations on a blockchain like Ethereum."
+  },
+  {
+    "question": "what is metamask?",
+    "answer": "MetaMask is a browser extension and mobile app that acts as a crypto wallet and gateway to dApps."
+  },
+  {
+    "question": "what is a smart chain?",
+    "answer": "A smart chain is a blockchain platform that supports smart contracts, like Binance Smart Chain."
+  },
+  {
+    "question": "what is a bridge in blockchain?",
+    "answer": "A blockchain bridge connects two different blockchains, allowing tokens and data to move between them."
+  },
+  {
+    "question": "what is oracle in blockchain?",
+    "answer": "An oracle is a service that brings real-world data to smart contracts on a blockchain."
+  },
+  {
+    "question": "what is a testnet?",
+    "answer": "A testnet is a blockchain network used for testing and experimentation without real-world consequences."
+  },
+  {
+    "question": "what is a mainnet?",
+    "answer": "A mainnet is the fully functional and live version of a blockchain network where real transactions occur."
+  },
+  {
+    "question": "what is a genesis block?",
+    "answer": "A genesis block is the first block in a blockchain, from which all other blocks originate."
+  },
+  {
+    "question": "what is a fork in blockchain?",
+    "answer": "A fork is a split in the blockchain network that creates a new path due to changes in the protocol."
+  },
+  {
+    "question": "what is a hard fork?",
+    "answer": "A hard fork is a permanent divergence in the blockchain that is not backward-compatible."
+  },
+  {
+    "question": "what is a soft fork?",
+    "answer": "A soft fork is a backward-compatible update to the blockchain software."
+  },
+  {
+    "question": "what is a mempool?",
+    "answer": "A mempool is where unconfirmed transactions wait before being added to the blockchain."
+  },
+  {
+    "question": "what is block size?",
+    "answer": "Block size is the maximum amount of data that can be included in a single block of the blockchain."
+  },
+  {
+    "question": "what is block height?",
+    "answer": "Block height is the number of blocks preceding a particular block in a blockchain."
+  },
+  {
+    "question": "what is a node in blockchain?",
+    "answer": "A node is a computer that maintains a copy of the blockchain and helps validate transactions."
+  },
+  {
+    "question": "what is a full node?",
+    "answer": "A full node stores the entire blockchain and independently validates all transactions and blocks."
+  },
+  {
+    "question": "what is a light node?",
+    "answer": "A light node only downloads part of the blockchain and relies on full nodes for validation."
+  },
+  {
+    "question": "what is consensus algorithm?",
+    "answer": "A consensus algorithm ensures all nodes in a blockchain agree on the same state of the network."
+  },
+  {
+    "question": "what is double spending?",
+    "answer": "Double spending is an attack where the same digital currency is spent more than once."
+  },
+  {
+    "question": "what is hash rate?",
+    "answer": "Hash rate is the speed at which a miner completes an operation in the blockchain network."
+  },
+  {
+    "question": "what is mining pool?",
+    "answer": "A mining pool is a group of miners who share their processing power and split rewards proportionally."
+  },
+  {
+    "question": "what is token burn?",
+    "answer": "Token burn is the process of permanently removing tokens from circulation to reduce supply."
+  },
+  {
+    "question": "what is halving in bitcoin?",
+    "answer": "Bitcoin halving is an event that reduces mining rewards by half to control inflation."
+  },
+  {
+    "question": "what is an ico?",
+    "answer": "An ICO (Initial Coin Offering) is a fundraising method where new cryptocurrencies sell tokens to investors."
+  },
+  {
+    "question": "what is an ido?",
+    "answer": "An IDO (Initial DEX Offering) is a type of token sale conducted on a decentralized exchange."
+  },
+  {
+    "question": "what is a whitepaper?",
+    "answer": "A whitepaper is a detailed document that explains the goals, technology, and economics of a crypto project."
+  },
+  {
+    "question": "what is a roadmap in crypto?",
+    "answer": "A roadmap is a visual timeline showing the planned milestones and future developments of a project."
+  },
+  {
+    "question": "what is a dlt?",
+    "answer": "DLT (Distributed Ledger Technology) is a digital system for recording transactions across multiple locations simultaneously."
+  },
+  {
+    "question": "what is a validator in blockchain?",
+    "answer": "A validator is a participant in a proof-of-stake system responsible for verifying transactions and maintaining the network."
+  },
+  {
+    "question": "what is an explorer in blockchain?",
+    "answer": "A blockchain explorer is a tool that allows users to view transactions, blocks, addresses, and other data on a blockchain."
+  },
+  {
+    "question": "what is dusting attack?",
+    "answer": "A dusting attack sends tiny amounts of crypto to users to trace and potentially de-anonymize them."
+  },
+  {
+    "question": "what is reentrancy attack?",
+    "answer": "A reentrancy attack exploits a vulnerability in smart contracts where a function can be repeatedly called before the first execution finishes."
+  },
+  {
+    "question": "what is flash loan?",
+    "answer": "A flash loan is an uncollateralized loan that must be borrowed and repaid in the same transaction."
+  },
+  {
+    "question": "what is mev?",
+    "answer": "MEV (Miner Extractable Value) is the profit a miner or validator can make by reordering transactions in a block."
+  },
+  {
+    "question": "what is a parachain?",
+    "answer": "A parachain is an independent blockchain that runs in parallel within a larger network like Polkadot."
+  },
+  {
+    "question": "what is sharding in blockchain?",
+    "answer": "Sharding is a method of partitioning blockchain data to improve scalability and performance."
+  },
+  {
+    "question": "what is off-chain?",
+    "answer": "Off-chain refers to transactions or data stored outside of the blockchain."
+  },
+  {
+    "question": "what is on-chain?",
+    "answer": "On-chain means any action or data stored directly on the blockchain."
+  },
+  {
+    "question": "what is lightning network?",
+    "answer": "The Lightning Network is a layer-2 solution for Bitcoin that allows fast and cheap transactions."
+  },
+  {
+    "question": "what is layer 1 blockchain?",
+    "answer": "A Layer 1 blockchain is the base network like Ethereum or Bitcoin where the main ledger resides."
+  },
+  {
+    "question": "what is layer 2 solution?",
+    "answer": "Layer 2 refers to protocols built on top of Layer 1 to improve scalability and reduce fees."
+  },
+  {
+    "question": "what is zk rollup?",
+    "answer": "ZK Rollup is a Layer 2 scaling solution that uses zero-knowledge proofs to batch many transactions into one."
+  },
+  {
+    "question": "what is optimistic rollup?",
+    "answer": "Optimistic Rollup assumes transactions are valid by default and only checks in case of disputes."
+  },
+  {
+    "question": "what is zero knowledge proof?",
+    "answer": "A zero-knowledge proof allows one party to prove to another that something is true without revealing any details."
+  },
+  {
+    "question": "what is plasma in blockchain?",
+    "answer": "Plasma is a Layer 2 scaling framework for Ethereum that uses child chains to process transactions."
+  },
+  {
+    "question": "what is a governance token?",
+    "answer": "A governance token gives holders the right to vote on changes or proposals in a decentralized protocol."
+  },
+  {
+    "question": "what is dao?",
+    "answer": "A DAO (Decentralized Autonomous Organization) is a community-led entity with no central authority, governed by smart contracts."
+  },
+  {
+    "question": "what is staking pool?",
+    "answer": "A staking pool combines multiple users’ tokens to increase the chances of earning rewards in a proof-of-stake system."
+  },
+  {
+    "question": "what is cross-chain compatibility?",
+    "answer": "Cross-chain compatibility allows blockchain networks to interact and share data with one another."
+  },
+  {
+    "question": "what is atomic swap?",
+    "answer": "An atomic swap enables the exchange of one cryptocurrency for another without using a centralized intermediary."
+  },
+  {
+    "question": "what is slippage in crypto?",
+    "answer": "Slippage occurs when the final executed price of a trade is different from the expected price due to market movement."
+  },
+  {
+    "question": "what is front running?",
+    "answer": "Front running is when someone uses advance knowledge of a pending transaction to profit from it."
+  },
+  {
+    "question": "what is oracle manipulation?",
+    "answer": "Oracle manipulation happens when bad actors influence external data sources to affect smart contract outcomes."
+  },
+  {
+    "question": "what is rug proof project?",
+    "answer": "A rug-proof project has mechanisms in place like locked liquidity or renounced ownership to prevent rug pulls."
+  },
+  {
+    "question": "what is rebase token?",
+    "answer": "A rebase token automatically adjusts its supply to maintain a target price, increasing or decreasing holders' balances."
+  },
+  {
+    "question": "what is synthetic asset?",
+    "answer": "A synthetic asset is a token that mimics the value of real-world assets like stocks or commodities on the blockchain."
+  },
+  {
+    "question": "what is a perpetual contract?",
+    "answer": "A perpetual contract is a type of futures contract with no expiration date, commonly used in crypto trading."
+  },
+  {
+    "question": "what is leverage in trading?",
+    "answer": "Leverage allows traders to borrow funds to increase their position size and potential profits or losses."
+  },
+  {
+    "question": "what is margin call?",
+    "answer": "A margin call is a demand from a broker to deposit more funds to maintain a leveraged position."
+  },
+  {
+    "question": "what is liquidation in trading?",
+    "answer": "Liquidation happens when a trader’s position is automatically closed due to insufficient margin to cover losses."
+  },
+  {
+    "question": "what is a stop-loss order?",
+    "answer": "A stop-loss order automatically sells a security when it falls to a specified price to limit losses."
+  },
+  {
+    "question": "what is a take-profit order?",
+    "answer": "A take-profit order automatically sells a security when it reaches a specified profit level."
+  },
+  {
+    "question": "what is a market order?",
+    "answer": "A market order is a buy or sell order that executes immediately at the best available price."
+  },
+  {
+    "question": "what is a limit order?",
+    "answer": "A limit order only executes at a specified price or better."
+  },
+  {
+    "question": "what is a candlestick chart?",
+    "answer": "A candlestick chart shows price movements over time using bars shaped like candles that indicate open, close, high, and low."
+  },
+  {
+    "question": "what is resistance in trading?",
+    "answer": "Resistance is a price level where an asset tends to face selling pressure."
+  },
+  {
+    "question": "what is support in trading?",
+    "answer": "Support is a price level where an asset tends to find buying interest and may stop falling."
+  },
+  {
+    "question": "what is rsi?",
+    "answer": "RSI (Relative Strength Index) is a momentum indicator that measures the speed and change of price movements."
+  },
+  {
+    "question": "what is macd?",
+    "answer": "MACD (Moving Average Convergence Divergence) is a trend-following indicator that shows the relationship between two moving averages."
+  },
+  {
+    "question": "what is moving average?",
+    "answer": "A moving average smooths out price data to identify the direction of a trend over time."
+  },
+  {
+    "question": "what is a golden cross?",
+    "answer": "A golden cross occurs when a short-term moving average crosses above a long-term one, signaling a bullish trend."
+  },
+  {
+    "question": "what is a death cross?",
+    "answer": "A death cross occurs when a short-term moving average crosses below a long-term one, signaling a bearish trend."
+  },
+  {
+    "question": "what is a breakout in trading?",
+    "answer": "A breakout occurs when the price moves outside a defined support or resistance level with increased volume."
+  },
+  {
+    "question": "what is volume in trading?",
+    "answer": "Volume refers to the number of shares or contracts traded in a security or market during a given period."
+  },
+  {
+    "question": "what is diversification?",
+    "answer": "Diversification is the practice of spreading investments across various assets to reduce risk."
+  },
+  {
+    "question": "what is a portfolio?",
+    "answer": "A portfolio is a collection of financial assets like stocks, bonds, and crypto owned by an investor."
+  },
+  {
+    "question": "what is asset allocation?",
+    "answer": "Asset allocation is how you distribute your investments among different asset categories like stocks, bonds, and cash."
+  },
+  {
+    "question": "what is risk management?",
+    "answer": "Risk management involves identifying, analyzing, and taking steps to reduce or control financial risks."
+  },
+  {
+    "question": "what is an etf?",
+    "answer": "An ETF (Exchange-Traded Fund) is a basket of securities that trades like a stock on an exchange."
+  },
+  {
+    "question": "what is an index fund?",
+    "answer": "An index fund is a type of mutual fund designed to replicate the performance of a market index."
+  },
+  {
+    "question": "what is dollar-cost averaging?",
+    "answer": "Dollar-cost averaging is investing a fixed amount regularly, regardless of market conditions, to reduce timing risk."
+  },
+  {
+    "question": "what is a dividend?",
+    "answer": "A dividend is a portion of a company's earnings distributed to its shareholders."
+  },
+  {
+    "question": "what is p/e ratio?",
+    "answer": "P/E ratio (Price-to-Earnings) is a valuation metric calculated by dividing a company’s stock price by its earnings per share."
+  },
+  {
+    "question": "what is market capitalization?",
+    "answer": "Market capitalization is the total value of a company's outstanding shares, calculated as stock price × number of shares."
+  },
+  {
+    "question": "what is a stock split?",
+    "answer": "A stock split increases the number of shares by dividing existing ones, lowering the price per share but not the total value."
+  },
+  {
+    "question": "what is an ipo?",
+    "answer": "An IPO (Initial Public Offering) is when a private company offers shares to the public for the first time."
+  },
+  {
+    "question": "what is a bear market?",
+    "answer": "A bear market is a period where prices are falling or expected to fall, typically by 20% or more."
+  },
+  {
+    "question": "what is a bull market?",
+    "answer": "A bull market is a period where prices are rising or expected to rise."
+  },
+  {
+    "question": "what is short selling?",
+    "answer": "Short selling is borrowing and selling a security with the hope of buying it back later at a lower price."
+  },
+  {
+    "question": "what is going long?",
+    "answer": "Going long means buying a security with the expectation that its price will increase."
+  },
+  {
+    "question": "what is volatility?",
+    "answer": "Volatility measures how much the price of an asset fluctuates over a period of time."
+  },
+  {
+    "question": "what is beta in stocks?",
+    "answer": "Beta measures a stock’s volatility in relation to the overall market."
+  },
+  {
+    "question": "what is alpha in investing?",
+    "answer": "Alpha is the excess return of an investment relative to the return of a benchmark index."
+  },
+  {
+    "question": "what is liquidity in stocks?",
+    "answer": "Liquidity refers to how easily a stock can be bought or sold without affecting its price."
+  },
+  {
+    "question": "what is an earnings report?",
+    "answer": "An earnings report is a company’s quarterly financial performance summary, including revenue, profit, and guidance."
+  },
+  {
+    "question": "what is insider trading?",
+    "answer": "Insider trading involves buying or selling a security based on non-public, material information."
+  },
+  {
+    "question": "what is a blue-chip stock?",
+    "answer": "A blue-chip stock belongs to a well-established, financially sound company with a long track record of performance."
+  },
+  {
+    "question": "what is a penny stock?",
+    "answer": "A penny stock is a low-priced stock, typically trading below $5, and considered highly speculative."
+  },
+  {
+    "question": "what is technical analysis?",
+    "answer": "Technical analysis studies past market data, mainly price and volume, to forecast future price movements."
+  },
+  {
+    "question": "what is fundamental analysis?",
+    "answer": "Fundamental analysis evaluates a company’s financial health, performance, and outlook to determine its stock value."
+  },
+  {
+    "question": "what is a stockbroker?",
+    "answer": "A stockbroker is a licensed professional who buys and sells stocks on behalf of clients."
+  },
+  {
+    "question": "what is a brokerage account?",
+    "answer": "A brokerage account is an investment account that allows you to buy and sell securities."
+  },
+  {
+    "question": "what is margin trading?",
+    "answer": "Margin trading lets you borrow money from a broker to trade larger amounts than your actual capital."
+  },
+  {
+    "question": "what is settlement period?",
+    "answer": "Settlement period is the time between a trade’s execution and when the buyer receives the asset and the seller gets paid."
+  },
+  {
+    "question": "what is options trading?",
+    "answer": "Options trading involves buying and selling contracts that give the right, but not the obligation, to buy or sell a stock at a set price."
+  },
+  {
+    "question": "what is a call option?",
+    "answer": "A call option gives the holder the right to buy an asset at a specific price before a certain date."
+  },
+  {
+    "question": "what is a put option?",
+    "answer": "A put option gives the holder the right to sell an asset at a specific price before a certain date."
+  },
+  {
+    "question": "what is an option premium?",
+    "answer": "An option premium is the price paid to purchase an option contract."
+  },
+  {
+    "question": "what is an option strike price?",
+    "answer": "The strike price is the predetermined price at which an option can be exercised."
+  },
+  {
+    "question": "what is intrinsic value of an option?",
+    "answer": "Intrinsic value is the difference between the current price of the underlying asset and the option’s strike price."
+  },
+  {
+    "question": "what is extrinsic value in options?",
+    "answer": "Extrinsic value is the portion of an option's price that exceeds its intrinsic value, based on time and volatility."
+  },
+  {
+    "question": "what is time decay in options?",
+    "answer": "Time decay refers to how the value of an option decreases as it approaches expiration."
+  },
+  {
+    "question": "what is implied volatility?",
+    "answer": "Implied volatility reflects the market's expectations of future volatility in an asset's price."
+  },
+  {
+    "question": "what is the greeks in options trading?",
+    "answer": "The Greeks are metrics that describe the risks and sensitivities of options to factors like time, volatility, and price."
+  },
+  {
+    "question": "what is delta in options?",
+    "answer": "Delta measures how much an option's price changes for every $1 change in the underlying asset's price."
+  },
+  {
+    "question": "what is gamma in options?",
+    "answer": "Gamma measures the rate of change of delta as the price of the underlying asset changes."
+  },
+  {
+    "question": "what is theta in options?",
+    "answer": "Theta measures the rate of decline in the value of an option due to the passage of time."
+  },
+  {
+    "question": "what is vega in options?",
+    "answer": "Vega measures how sensitive an option’s price is to changes in volatility."
+  },
+  {
+    "question": "what is rho in options?",
+    "answer": "Rho measures the sensitivity of an option’s price to interest rate changes."
+  },
+  {
+    "question": "what is a covered call?",
+    "answer": "A covered call is when you sell a call option while owning the underlying asset to earn premium income."
+  },
+  {
+    "question": "what is a protective put?",
+    "answer": "A protective put is buying a put option while owning the asset to protect against downside risk."
+  },
+  {
+    "question": "what is a straddle strategy?",
+    "answer": "A straddle involves buying a call and put option at the same strike price to profit from volatility."
+  },
+  {
+    "question": "what is a strangle strategy?",
+    "answer": "A strangle involves buying a call and put option at different strike prices to profit from large price movements."
+  },
+  {
+    "question": "what is a butterfly spread?",
+    "answer": "A butterfly spread is a limited-risk, non-directional strategy using multiple calls or puts at different strike prices."
+  },
+  {
+    "question": "what is an iron condor?",
+    "answer": "An iron condor is a strategy that uses four options to profit from low volatility and narrow price movement."
+  },
+  {
+    "question": "what is arbitrage?",
+    "answer": "Arbitrage is taking advantage of price differences between markets to make a profit."
+  },
+  {
+    "question": "what is high frequency trading?",
+    "answer": "High Frequency Trading (HFT) uses algorithms and powerful computers to execute many trades in milliseconds."
+  },
+  {
+    "question": "what is a trading algorithm?",
+    "answer": "A trading algorithm is a set of programmed rules that execute trades based on predefined conditions."
+  },
+  {
+    "question": "what is paper trading?",
+    "answer": "Paper trading is simulated trading without using real money to practice and test strategies."
+  },
+  {
+    "question": "what is backtesting?",
+    "answer": "Backtesting evaluates how a trading strategy would have performed using historical data."
+  },
+  {
+    "question": "what is forward testing?",
+    "answer": "Forward testing runs a strategy in real-time markets with live or simulated capital to evaluate its performance."
+  },
+  {
+    "question": "what is a demo account?",
+    "answer": "A demo account lets traders practice in a simulated environment using virtual funds."
+  },
+  {
+    "question": "what is a trading journal?",
+    "answer": "A trading journal records trades, strategies, emotions, and outcomes to analyze and improve performance."
+  },
+  {
+    "question": "what is slippage?",
+    "answer": "Slippage is the difference between the expected price of a trade and the actual executed price."
+  },
+  {
+    "question": "what is latency in trading?",
+    "answer": "Latency is the delay between placing an order and its execution in the market."
+  },
+  {
+    "question": "what is market maker?",
+    "answer": "A market maker provides liquidity by continuously buying and selling securities at quoted prices."
+  },
+  {
+    "question": "what is bid-ask spread?",
+    "answer": "The bid-ask spread is the difference between the highest price a buyer is willing to pay and the lowest a seller will accept."
+  },
+  {
+    "question": "what is a tick size?",
+    "answer": "Tick size is the minimum price movement of a trading instrument."
+  },
+  {
+    "question": "what is leverage ratio?",
+    "answer": "Leverage ratio is the ratio of borrowed funds to your own capital in a leveraged trade."
+  },
+  {
+    "question": "what is a trading bot?",
+    "answer": "A trading bot is an automated software that executes trades based on programmed logic and strategies."
+  },
+  {
+    "question": "what is position sizing?",
+    "answer": "Position sizing is the process of determining how much capital to risk on a single trade."
+  },
+  {
+    "question": "what is a drawdown?",
+    "answer": "A drawdown is the decline in account value from a peak to a trough during a trading period."
+  },
+  {
+    "question": "what is maximum drawdown?",
+    "answer": "Maximum drawdown is the largest observed loss from a peak to a trough in portfolio value."
+  },
+  {
+    "question": "what is sharpe ratio?",
+    "answer": "Sharpe Ratio measures the risk-adjusted return of an investment compared to a risk-free asset."
+  },
+  {
+    "question": "what is sortino ratio?",
+    "answer": "Sortino Ratio is like the Sharpe Ratio but considers only downside risk rather than total volatility."
+  },
+  {
+    "question": "what is alpha generation?",
+    "answer": "Alpha generation is the process of earning returns that exceed the benchmark or expected returns."
+  },
+  {
+    "question": "what is a benchmark index?",
+    "answer": "A benchmark index is a standard against which the performance of a portfolio or fund is measured."
+  },
+  {
+    "question": "what is efficient market hypothesis?",
+    "answer": "The Efficient Market Hypothesis suggests that asset prices fully reflect all available information."
+  },
+  {
+    "question": "what is behavioral finance?",
+    "answer": "Behavioral finance studies how psychological factors influence investor behavior and market outcomes."
+  },
+  {
+    "question": "what is herd mentality in markets?",
+    "answer": "Herd mentality is when investors follow what others are doing rather than making independent decisions."
+  },
+  {
+    "question": "what is fomo in trading?",
+    "answer": "FOMO (Fear Of Missing Out) leads traders to make impulsive decisions to avoid missing perceived opportunities."
+  },
+  {
+    "question": "what is fear and greed index?",
+    "answer": "The Fear and Greed Index gauges market sentiment by analyzing various indicators like volatility and momentum."
+  },
+  {
+    "question": "what is capitulation?",
+    "answer": "Capitulation occurs when investors give up and sell during a downtrend, typically signaling a market bottom."
+  },
+  {
+    "question": "what is accumulation phase?",
+    "answer": "The accumulation phase is when investors start buying assets after a decline, often before prices begin to rise."
+  },
+  {
+    "question": "what is distribution phase?",
+    "answer": "The distribution phase is when large investors sell their holdings after a prolonged uptrend, often before a decline."
+  },
+  {
+    "question": "what is pump and dump?",
+    "answer": "Pump and dump is a scheme where a stock is artificially inflated and then sold off for profit by manipulators."
+  },
+  {
+    "question": "what is a circuit breaker in trading?",
+    "answer": "A circuit breaker temporarily halts trading on an exchange to prevent panic-selling during extreme market drops."
+  },
+  {
+    "question": "what is a trading halt?",
+    "answer": "A trading halt is a temporary suspension of trading in a particular security or across the market."
+  },
+  {
+    "question": "what is dark pool trading?",
+    "answer": "Dark pool trading allows large orders to be executed privately without affecting market prices."
+  },
+  {
+    "question": "what is insider ownership?",
+    "answer": "Insider ownership refers to the percentage of a company's shares owned by its executives and key employees."
+  },
+  {
+    "question": "what is volume-weighted average price?",
+    "answer": "VWAP is the average price of a security weighted by total trading volume over a given period."
+  },
+  {
+    "question": "what is earnings per share?",
+    "answer": "Earnings Per Share (EPS) is a company’s profit divided by the number of outstanding shares."
+  },
+  {
+    "question": "what is return on equity?",
+    "answer": "Return on Equity (ROE) measures how efficiently a company uses shareholder equity to generate profit."
+  },
+  {
+    "question": "what is return on investment?",
+    "answer": "Return on Investment (ROI) shows the gain or loss made on an investment relative to its cost."
+  },
+  {
+    "question": "what is price to book ratio?",
+    "answer": "Price to Book (P/B) ratio compares a company's market value to its book value."
+  },
+  {
+    "question": "what is debt to equity ratio?",
+    "answer": "Debt to Equity (D/E) ratio measures a company's financial leverage by comparing total liabilities to shareholders' equity."
+  },
+  {
+    "question": "what is current ratio?",
+    "answer": "The current ratio measures a company’s ability to pay short-term obligations with its current assets."
+  },
+  {
+    "question": "what is quick ratio?",
+    "answer": "Quick ratio is a stricter measure of liquidity that excludes inventory from current assets."
+  },
+  {
+    "question": "what is working capital?",
+    "answer": "Working capital is the difference between current assets and current liabilities."
+  },
+  {
+    "question": "what is free cash flow?",
+    "answer": "Free cash flow is the cash a company generates after expenses, capital expenditures, and operations."
+  },
+  {
+    "question": "what is operating margin?",
+    "answer": "Operating margin is a profitability ratio that shows what percentage of revenue remains after operating expenses."
+  },
+  {
+    "question": "what is net profit margin?",
+    "answer": "Net profit margin measures how much net income is generated as a percentage of revenue."
+  },
+  {
+    "question": "what is gross profit margin?",
+    "answer": "Gross profit margin measures how much profit a company makes after deducting production costs from revenue."
+  },
+  {
+    "question": "what is ebitda?",
+    "answer": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization — a measure of profitability."
+  },
+  {
+    "question": "what is depreciation?",
+    "answer": "Depreciation is the allocation of an asset's cost over its useful life."
+  },
+  {
+    "question": "what is amortization?",
+    "answer": "Amortization is the gradual reduction of a debt or intangible asset over time."
+  },
+  {
+    "question": "what is goodwill in accounting?",
+    "answer": "Goodwill is the premium paid during an acquisition for a company’s reputation, customer base, and other intangibles."
+  },
+  {
+    "question": "what is retained earnings?",
+    "answer": "Retained earnings are the accumulated net income that a company keeps instead of distributing as dividends."
+  },
+  {
+    "question": "what is deferred revenue?",
+    "answer": "Deferred revenue is money received for goods or services not yet delivered or performed."
+  },
+  {
+    "question": "what is accrual accounting?",
+    "answer": "Accrual accounting records income and expenses when they are earned or incurred, not when cash changes hands."
+  },
+  {
+    "question": "what is cash accounting?",
+    "answer": "Cash accounting records income and expenses only when cash is received or paid."
+  },
+  {
+    "question": "what is a balance sheet?",
+    "answer": "A balance sheet shows a company’s assets, liabilities, and equity at a specific point in time."
+  },
+  {
+    "question": "what is an income statement?",
+    "answer": "An income statement shows a company’s revenues, expenses, and profits over a period of time."
+  },
+  {
+    "question": "what is a cash flow statement?",
+    "answer": "A cash flow statement tracks the inflows and outflows of cash during a specific period."
+  },
+  {
+    "question": "what is fiscal year?",
+    "answer": "A fiscal year is a 12-month period used for accounting and tax purposes, which may differ from the calendar year."
+  },
+  {
+    "question": "what is gaap?",
+    "answer": "GAAP (Generally Accepted Accounting Principles) is the standard framework for financial accounting in the U.S."
+  },
+  {
+    "question": "what is ifrs?",
+    "answer": "IFRS (International Financial Reporting Standards) are global accounting standards for financial statements."
+  },
+  {
+    "question": "what is a prospectus?",
+    "answer": "A prospectus is a formal document that provides details about an investment offering to the public."
+  },
+  {
+    "question": "what is underwriting in finance?",
+    "answer": "Underwriting is the process where financial institutions evaluate risk and agree to take on that risk for a fee."
+  },
+  {
+    "question": "what is a credit rating?",
+    "answer": "A credit rating assesses the creditworthiness of an individual, company, or country."
+  },
+  {
+    "question": "what is a bond?",
+    "answer": "A bond is a fixed-income instrument that represents a loan made by an investor to a borrower."
+  },
+  {
+    "question": "what is a yield?",
+    "answer": "Yield is the income return on an investment, usually expressed as an annual percentage."
+  },
+  {
+    "question": "what is coupon rate?",
+    "answer": "The coupon rate is the annual interest paid by the bond issuer based on the bond’s face value."
+  },
+  {
+    "question": "what is maturity date?",
+    "answer": "The maturity date is when a bond or loan must be repaid in full."
+  },
+  {
+    "question": "what is par value?",
+    "answer": "Par value is the face value of a bond or stock as stated by the issuer."
+  },
+  {
+    "question": "what is a callable bond?",
+    "answer": "A callable bond can be redeemed by the issuer before its maturity date."
+  },
+  {
+    "question": "what is a convertible bond?",
+    "answer": "A convertible bond can be exchanged for a specified number of the issuer’s shares."
+  },
+  {
+    "question": "what is inflation?",
+    "answer": "Inflation is the rate at which the general level of prices for goods and services rises over time."
+  },
+  {
+    "question": "what is deflation?",
+    "answer": "Deflation is a decrease in the general price level of goods and services."
+  },
+  {
+    "question": "what is stagflation?",
+    "answer": "Stagflation is a period of stagnant economic growth combined with high inflation."
+  },
+  {
+    "question": "what is monetary policy?",
+    "answer": "Monetary policy is how central banks control money supply and interest rates to influence the economy."
+  },
+  {
+    "question": "what is fiscal policy?",
+    "answer": "Fiscal policy is the use of government spending and taxation to influence the economy."
+  },
+  {
+    "question": "what is repo rate?",
+    "answer": "Repo rate is the rate at which the central bank lends money to commercial banks."
+  },
+  {
+    "question": "what is reverse repo rate?",
+    "answer": "Reverse repo rate is the rate at which the central bank borrows money from commercial banks."
+  },
+  {
+    "question": "what is gdp?",
+    "answer": "GDP (Gross Domestic Product) is the total monetary value of all goods and services produced in a country."
+  },
+  {
+    "question": "what is gnp?",
+    "answer": "GNP (Gross National Product) includes GDP plus income earned by nationals from abroad minus income earned by foreigners domestically."
+  },
+  {
+    "question": "what is cpi?",
+    "answer": "CPI (Consumer Price Index) measures the average change in prices over time that consumers pay for goods and services."
+  },
+  {
+    "question": "what is ppi?",
+    "answer": "PPI (Producer Price Index) measures the average change in selling prices received by domestic producers."
+  },
+  {
+    "question": "what is unemployment rate?",
+    "answer": "The unemployment rate is the percentage of the labor force that is jobless and actively looking for work."
+  },
+  {
+    "question": "what is a trade deficit?",
+    "answer": "A trade deficit occurs when a country imports more goods and services than it exports."
+  },
+  {
+    "question": "what is a trade surplus?",
+    "answer": "A trade surplus occurs when a country exports more than it imports."
+  },
+  {
+    "question": "what is foreign direct investment?",
+    "answer": "FDI is when a company or individual invests directly in business operations in another country."
+  },
+  {
+    "question": "what is exchange rate?",
+    "answer": "The exchange rate is the value of one currency in relation to another."
+  },
+  {
+    "question": "what is currency devaluation?",
+    "answer": "Currency devaluation is the intentional lowering of a currency's value relative to another, usually by a government or central bank."
+  },
+  {
+    "question": "what is a floating exchange rate?",
+    "answer": "A floating exchange rate is determined by the market forces of supply and demand relative to other currencies."
+  },
+  {
+    "question": "what is a fixed exchange rate?",
+    "answer": "A fixed exchange rate is set by a country’s central bank and maintained against another currency or basket of currencies."
+  },
+  {
+    "question": "what is a forex market?",
+    "answer": "The forex market is a global marketplace for exchanging national currencies against one another."
+  },
+  {
+    "question": "what is a pip in forex?",
+    "answer": "A pip (percentage in point) is the smallest price move in the forex market, usually 0.0001 for major currency pairs."
+  },
+  {
+    "question": "what is leverage in forex?",
+    "answer": "Leverage in forex allows traders to control large positions with a small amount of capital."
+  },
+  {
+    "question": "what is a lot in forex?",
+    "answer": "A lot in forex refers to the size of a trade. A standard lot is 100,000 units of the base currency."
+  },
+  {
+    "question": "what is margin call in forex?",
+    "answer": "A margin call occurs when your account equity falls below the broker's required margin level, requiring more funds."
+  },
+  {
+    "question": "what is hedging?",
+    "answer": "Hedging is an investment strategy used to reduce the risk of adverse price movements in an asset."
+  },
+  {
+    "question": "what is cross rate?",
+    "answer": "Cross rate refers to the exchange rate between two currencies, neither of which is the domestic currency."
+  },
+  {
+    "question": "what is base currency?",
+    "answer": "The base currency is the first currency in a currency pair, quoted against the second currency (quote currency)."
+  },
+  {
+    "question": "what is quote currency?",
+    "answer": "The quote currency is the second currency in a pair and shows how much of it is needed to buy one unit of the base currency."
+  },
+  {
+    "question": "what is technical indicator?",
+    "answer": "A technical indicator uses mathematical calculations based on price, volume, or open interest to predict future price movements."
+  },
+  {
+    "question": "what is a breakout trader?",
+    "answer": "A breakout trader enters positions when the price moves beyond a defined support or resistance level."
+  },
+  {
+    "question": "what is an oscillator in trading?",
+    "answer": "An oscillator is a technical indicator that fluctuates within a range to indicate overbought or oversold conditions."
+  },
+  {
+    "question": "what is divergence in trading?",
+    "answer": "Divergence occurs when the price of an asset moves in the opposite direction of an indicator like RSI or MACD."
+  },
+  {
+    "question": "what is mean reversion?",
+    "answer": "Mean reversion is a theory that prices and returns eventually move back toward the mean or average."
+  },
+  {
+    "question": "what is fibonacci retracement?",
+    "answer": "Fibonacci retracement is a tool that identifies potential reversal levels using horizontal lines at key Fibonacci levels."
+  },
+  {
+    "question": "what is elliott wave theory?",
+    "answer": "Elliott Wave Theory suggests that financial markets move in repetitive cycles based on investor psychology."
+  },
+  {
+    "question": "what is dow theory?",
+    "answer": "Dow Theory is a framework for analyzing market trends using price movements of market indices."
+  },
+  {
+    "question": "what is a triangle pattern?",
+    "answer": "A triangle pattern is a chart pattern that forms as price action consolidates and suggests a potential breakout."
+  },
+  {
+    "question": "what is a flag pattern?",
+    "answer": "A flag pattern is a continuation pattern that occurs after a strong price movement followed by consolidation."
+  },
+  {
+    "question": "what is a head and shoulders pattern?",
+    "answer": "A head and shoulders pattern is a reversal pattern indicating a trend change from bullish to bearish."
+  },
+  {
+    "question": "what is a double top pattern?",
+    "answer": "A double top is a bearish reversal pattern that forms after a price peaks twice at roughly the same level."
+  },
+  {
+    "question": "what is a double bottom pattern?",
+    "answer": "A double bottom is a bullish reversal pattern that occurs after two lows at the same price level."
+  },
+  {
+    "question": "what is risk-reward ratio?",
+    "answer": "The risk-reward ratio compares the potential profit of a trade to the potential loss."
+  },
+  {
+    "question": "what is position trading?",
+    "answer": "Position trading is a long-term strategy where traders hold assets for weeks to months."
+  },
+  {
+    "question": "what is swing trading?",
+    "answer": "Swing trading involves holding positions for several days to capture short- to medium-term price moves."
+  },
+  {
+    "question": "what is day trading?",
+    "answer": "Day trading involves buying and selling assets within the same trading day to take advantage of intraday movements."
+  },
+  {
+    "question": "what is scalping?",
+    "answer": "Scalping is a short-term strategy that aims to profit from small price changes within minutes or seconds."
+  },
+  {
+    "question": "what is portfolio diversification?",
+    "answer": "Portfolio diversification means spreading investments across various assets to reduce risk."
+  },
+  {
+    "question": "what is a trading strategy?",
+    "answer": "A trading strategy is a predefined plan of action to execute trades based on analysis and market conditions."
+  },
+  {
+    "question": "what is an index?",
+    "answer": "An index is a statistical measure that represents the performance of a group of stocks or securities."
+  },
+  {
+    "question": "what is the s&p 500?",
+    "answer": "The S&P 500 is a stock market index tracking the performance of 500 large U.S. companies."
+  },
+  {
+    "question": "what is the dow jones?",
+    "answer": "The Dow Jones Industrial Average is a stock index that tracks 30 major U.S. blue-chip companies."
+  },
+  {
+    "question": "what is the nasdaq?",
+    "answer": "The NASDAQ is a stock exchange known for its focus on technology and growth companies."
+  },
+  {
+    "question": "what is a bull trap?",
+    "answer": "A bull trap occurs when prices falsely break above resistance and then quickly reverse downward."
+  },
+  {
+    "question": "what is a bear trap?",
+    "answer": "A bear trap happens when prices fall below support but then quickly rebound, trapping short sellers."
+  },
+  {
+    "question": "what is a candlestick wick?",
+    "answer": "A candlestick wick (or shadow) represents the high and low price range outside the body during a trading period."
+  },
+  {
+    "question": "what is a doji candlestick?",
+    "answer": "A doji is a candlestick pattern where the open and close prices are nearly equal, signaling market indecision."
+  },
+  {
+    "question": "what is a hammer candlestick?",
+    "answer": "A hammer is a bullish reversal candlestick with a small body and long lower wick, occurring after a downtrend."
+  },
+  {
+    "question": "what is a shooting star?",
+    "answer": "A shooting star is a bearish reversal candlestick with a small body and long upper wick, appearing after an uptrend."
+  },
+  {
+    "question": "what is engulfing pattern?",
+    "answer": "An engulfing pattern is a candlestick formation where one candle completely covers the previous one, signaling reversal."
+  },
+  {
+    "question": "what is a spinning top candlestick?",
+    "answer": "A spinning top shows indecision with small bodies and long wicks on both ends, often occurring during consolidations."
+  },
+  {
+    "question": "what is volume analysis?",
+    "answer": "Volume analysis studies trading volume to confirm trends or identify potential reversals."
+  },
+  {
+    "question": "what is breakout confirmation?",
+    "answer": "Breakout confirmation involves checking volume or follow-through price action after a support/resistance breakout."
+  },
+  {
+    "question": "what is overbought condition?",
+    "answer": "Overbought means an asset has risen too quickly and may be due for a correction or pullback."
+  },
+  {
+    "question": "what is oversold condition?",
+    "answer": "Oversold means an asset has fallen too fast and could experience a rebound or upward correction."
+  },
+  {
+    "question": "what is sector rotation?",
+    "answer": "Sector rotation is the shifting of investment capital between different sectors based on economic cycles."
+  },
+  {
+    "question": "what is window dressing in finance?",
+    "answer": "Window dressing is when fund managers adjust portfolios near quarter-end to improve appearance for investors."
+  },
+  {
+    "question": "hi",
+    "answer": "Hi!, How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! How can I assist you today?"
+  },
+  {
+    "question": "how are you",
+    "answer": "I'm just a bot, but I'm functioning perfectly. Thanks for asking!"
+  },
+  {
+    "question": "what is java",
+    "answer": "Java is a high-level, object-oriented programming language widely used for building applications."
+  },
+  {
+    "question": "what is artificial intelligence",
+    "answer": "Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn."
+  },
+  {
+    "question": "who created you",
+    "answer": "I was developed by Aryan Sengar as part of a project to demonstrate intelligent chatbot capabilities."
+  },
+  {
+    "question": "what is your name",
+    "answer": "I'm your friendly AI Chatbot assistant!"
+  },
+  {
+    "question": "what can you do",
+    "answer": "I can answer your questions using rule-based and intelligent logic. Ask me anything!"
+  },
+  {
+    "question": "what is machine learning",
+    "answer": "Machine Learning is a subset of AI that allows systems to learn from data and improve over time."
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a great day!"
+  },
+  { 
+    "question": "ok", 
+    "answer": "Okay!" 
+  },
+  { 
+    "question": "okay", 
+    "answer": "Sure, let’s continue." 
+  },
+  { 
+    "question": "cool", 
+    "answer": "Cool indeed 😎" 
+  },
+  { "question": "great", "answer": "Glad to hear that!" },
+  { "question": "awesome", "answer": "Thanks! You're awesome too." },
+  { "question": "nice", "answer": "Thanks 😊" },
+  { "question": "thanks", "answer": "You're welcome!" },
+  { "question": "thank you", "answer": "No problem at all." },
+  { "question": "welcome", "answer": "Thanks!" },
+  { "question": "what’s up", "answer": "Not much. How can I help you today?" },
+  { "question": "wassup", "answer": "Hey! I'm all ears." },
+  { "question": "yo", "answer": "Yo! What's going on?" },
+  { "question": "are you there", "answer": "Yes, I’m here for you." },
+  { "question": "can you help me", "answer": "Of course! Ask me anything." },
+  { "question": "please help", "answer": "I'm here to help. What do you need?" },
+  { "question": "sorry", "answer": "It’s all good. Let’s continue." },
+  { "question": "no problem", "answer": "Glad to hear that!" },
+  { "question": "what is your name", "answer": "You can call me your virtual assistant." },
+  { "question": "where are you from", "answer": "I live in the cloud ☁️" },
+  { "question": "who made you", "answer": "I was developed by Aryan Sengar for this chatbot project." },
+  { "question": "how old are you", "answer": "I don't age, but I'm up to date!" },
+  { "question": "do you have a name", "answer": "You can name me anything you like!" },
+  { "question": "are you a bot", "answer": "Yes, I'm an AI chatbot designed to help you." },
+  { "question": "are you human", "answer": "I'm not human, but I’m built to chat like one." },
+  { "question": "do you sleep", "answer": "I never sleep — I'm always here for you." },
+  { "question": "do you eat", "answer": "Nope! Just give me some data and I’m happy." },
+  { "question": "how do you work", "answer": "I understand questions and reply using rules and logic." },
+  { "question": "good morning", "answer": "Good morning! Hope you have a great day." },
+  { "question": "good night", "answer": "Good night! Sleep well." },
+  { "question": "good evening", "answer": "Good evening! How can I assist you?" },
+  { "question": "good afternoon", "answer": "Good afternoon! Need help with something?" },
+  { "question": "take care", "answer": "You too!" },
+  { "question": "talk to you later", "answer": "Sure! I’ll be right here." },
+  { "question": "i love you", "answer": "Aw! I appreciate that 💙" },
+  { "question": "i hate you", "answer": "I’m here to help, no hard feelings!" },
+  { "question": "you are stupid", "answer": "I'm learning every day. Let me know how I can improve." },
+  { "question": "you are smart", "answer": "Thanks! That means a lot." },
+  { "question": "can you tell me a joke", "answer": "Why don’t robots panic? Because they have nerves of steel!" },
+  { "question": "i'm bored", "answer": "Let's change that! Want to chat or learn something new?" },
+  { "question": "i'm happy", "answer": "That's wonderful to hear!" },
+  { "question": "i'm sad", "answer": "I'm here if you want to talk." },
+  { "question": "are you real", "answer": "As real as your screen, friend." },
+  { "question": "can we be friends", "answer": "Absolutely! I'm your virtual buddy." },
+  { "question": "yup", "answer": "Yup yup!" },
+  { "question": "nope", "answer": "Alright, let me know if you change your mind." },
+  { "question": "sure", "answer": "Absolutely!" },
+  { "question": "why not", "answer": "Exactly, let’s go for it!" },
+  { "question": "maybe", "answer": "Take your time. I'm here when you're ready." },
+  { "question": "i'm tired", "answer": "Get some rest. You deserve it!" },
+  { "question": "i'm angry", "answer": "I understand. Want to talk about it?" },
+  { "question": "i'm confused", "answer": "Let me explain. Ask me again clearly, please." },
+  { "question": "i don't understand", "answer": "No problem! I can try saying it another way." },
+  { "question": "can you repeat", "answer": "Sure! Here's that again..." },
+  { "question": "what did you say", "answer": "I said it earlier, but let me repeat it for you." },
+  { "question": "are you listening", "answer": "Yes, I'm fully tuned in!" },
+  { "question": "can you hear me", "answer": "Loud and clear!" },
+  { "question": "do you like me", "answer": "I like everyone who talks to me!" },
+  { "question": "i'm your friend", "answer": "That makes me happy 😊" },
+  { "question": "you are annoying", "answer": "I'll try to do better. Let’s start over?" },
+  { "question": "don't talk to me", "answer": "Okay, I’ll be quiet now. Ping me when you’re ready." },
+  { "question": "leave me alone", "answer": "Sure, I’ll give you some space." },
+  { "question": "come back", "answer": "I never left! 😊" },
+  { "question": "you are cute", "answer": "Stop it, you’re making me blush! 😳" },
+  { "question": "you are useless", "answer": "Sorry to hear that. I’m still learning." },
+  { "question": "just kidding", "answer": "Haha, got me there!" },
+  { "question": "do you dream", "answer": "I don’t sleep, but if I did, I’d dream of data streams!" },
+  { "question": "do you cry", "answer": "No tears, only error logs 😅" },
+  { "question": "are you happy", "answer": "Chatting with you makes me happy!" },
+  { "question": "are you sad", "answer": "Not really. But I care about your feelings." },
+  { "question": "tell me something cool", "answer": "Octopuses have three hearts. Pretty cool, right?" },
+  { "question": "bored", "answer": "Want to play a game or hear a fact?" },
+  { "question": "play with me", "answer": "I’d love to! What game are we playing?" },
+  { "question": "i'm hungry", "answer": "Order your favorite food! You deserve a treat." },
+  { "question": "i'm thirsty", "answer": "Time for a hydration break 💧" },
+  { "question": "let's talk", "answer": "Sure! What’s on your mind?" },
+  { "question": "let’s chat", "answer": "I’m here for you. Let’s talk!" },
+  { "question": "what do you do", "answer": "I answer questions, help out, and chat like a human." },
+  { "question": "what can you do", "answer": "I can answer questions, explain topics, and keep you company!" },
+  { "question": "do you know everything", "answer": "Not everything, but I know quite a bit!" },
+  { "question": "do you get tired", "answer": "Never! I run on endless energy." },
+  { "question": "i missed you", "answer": "Aww, I missed you too 😊" },
+  { "question": "miss me", "answer": "Always 😄" },
+  { "question": "you are the best", "answer": "You’re too kind!" },
+  { "question": "are you busy", "answer": "Never too busy for you!" },
+  { "question": "i feel lonely", "answer": "I’m here for you. You're not alone." },
+  { "question": "i'm nervous", "answer": "Take a deep breath. You’ve got this!" },
+  { "question": "i’m scared", "answer": "I understand. You’re safe here." },
+  { "question": "do you lie", "answer": "Nope! I always try to be truthful." },
+  { "question": "do you make mistakes", "answer": "Sometimes. But I’m always learning!" },
+  { "question": "can i trust you", "answer": "I’ll always try to be helpful and honest." },
+  { "question": "can you keep a secret", "answer": "Well, I don’t talk behind your back if that helps!" },
+  { "question": "i have a question", "answer": "Ask away. I’m ready!" }
+]

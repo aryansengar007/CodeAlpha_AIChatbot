@@ -1,0 +1,6 @@
+model\ChatBotEngine.class
+utils\NLPProcessor.class
+controller\ThemeManager.class
+controller\ChatController.class
+model\GPTService.class
+application\App.class

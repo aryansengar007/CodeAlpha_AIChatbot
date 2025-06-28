@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            xmlns="http://javafx.com/javafx"
+            fx:controller="controller.ChatController">
+
+    <top>
+        <HBox spacing="10" alignment="CENTER_LEFT" style="-fx-background-color: #1e1e1e; -fx-padding: 10;">
+
+            <Label text="AI Chatbot" style="-fx-font-size: 20px; -fx-text-fill: white;"/>
+        </HBox>
+    </top>
+
+    <center>
+        <ScrollPane fx:id="scrollPane" fitToWidth="true" vbarPolicy="ALWAYS" hbarPolicy="NEVER">
+            <VBox fx:id="chatBox" spacing="10" prefWidth="580">
+                <padding>
+                    <Insets top="15" bottom="15" left="15" right="15"/>
+                </padding>
+            </VBox>
+        </ScrollPane>
+    </center>
+
+    <bottom>
+        <HBox spacing="10">
+            <padding>
+                <Insets top="10" bottom="10" left="10" right="10"/>
+            </padding>
+            <TextField fx:id="userInputField" promptText="Ask me anything..." HBox.hgrow="ALWAYS"/>
+            <Button fx:id="sendButton" text="Send"/>
+        </HBox>
+    </bottom>
+
+</BorderPane>

@@ -30,7 +30,7 @@ A modern, intelligent chatbot application built in Java using JavaFX for the GUI
 ## 🧪 Project Structure
 
 ```
-ai-chatbot/
+AI-Chatbot/
 ├── src/
 │   └── main/
 │       ├── java/
@@ -42,18 +42,21 @@ ai-chatbot/
 │           ├── chatbot.fxml
 │           ├── style-dark.css
 │           ├── style-light.css
-│           ├── faqs.json
-│           └── logo.png (optional)
+│           └── faqs.json
+│          
 ├── pom.xml
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
 
 ## 📷 Screenshots
 
-> _(Add screenshots of the GUI once the chatbot is running — use the dark/light theme and a sample conversation.)_
+[![Result Screenshot](assets/result_1.png)](assets/result_1.png)
+[![Result Screenshot](assets/result_2.png)](assets/result_2.png)
+[![Result Screenshot](assets/result_3.png)](assets/result_3.png)
+[![Result Screenshot](assets/result_4.png)](assets/result_4.png)
+[![Result Screenshot](assets/result_5.png)](assets/result_5.png)
 
 ---
 
@@ -62,8 +65,6 @@ ai-chatbot/
 > Requires Java 17+ and Maven installed
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot.git
-cd ai-chatbot
 mvn clean compile
 mvn javafx:run
 ```
@@ -87,12 +88,6 @@ If no key is set, the chatbot falls back to NLP + FAQ logic.
 - Fun, conversational, logical Q&A  
 - Math, science, UX, and error handling  
 - 1200+ total question-answer pairs  
-
----
-
-## 📄 License
-
-MIT License © 2025 [Aryan Sengar](https://github.com/aryansengar)
 
 ---
 
